@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chow Down",
+    "description": "",
+    "home_page_url": "https://derekjhanson.github.io/food",
+    "feed_url": "https://derekjhanson.github.io/food/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "The Hansons"
+    },
+    "items": [
+        {
+            "id": "https://derekjhanson.github.io/food/my-first-meal.html",
+            "url": "https://derekjhanson.github.io/food/my-first-meal.html",
+            "title": "My first meal",
+            "summary": "Was delicious, of course.",
+            "content_html": "Was delicious, of course.",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-17T09:11:31-05:00",
+            "date_modified": "2019-09-17T09:11:31-05:00"
+        }
+    ]
+}

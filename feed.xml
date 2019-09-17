@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Chow Down</title>
+    <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
+    <link href="https://derekjhanson.github.io/food" />
+    <updated>2019-09-17T09:15:11-05:00</updated>
+    <author>
+        <name>The Hansons</name>
+    </author>
+    <id>https://derekjhanson.github.io/food</id>
+
+    <entry>
+        <title>My first meal</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/my-first-meal.html"/>
+        <id>https://derekjhanson.github.io/food/my-first-meal.html</id>
+
+        <updated>2019-09-17T09:11:31-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Was delicious, of course.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Was delicious, of course.
+            ]]>
+        </content>
+    </entry>
+</feed>
