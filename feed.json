@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/my-first-meal.html",
+            "url": "https://derekjhanson.github.io/food/my-first-meal.html",
+            "title": "Rotisserie Chicken",
+            "summary": " Tastes like rotisserie chicken, but done in minutes and with any style&hellip;",
+            "content_html": "<h1 id=\"mcetoc_1dkvpbacs0\" class=\"md-end-block md-heading\"> </h1>\n<blockquote>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">Tastes like rotisserie chicken, but done in minutes and with any style (white, dark, mixed) of meat.</span></p>\n</blockquote>\n<ul class=\"ul-list\" >\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">Rub the rub onto the chicken</span></p>\n</li>\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">Saute for ~ 2 minutes in instapot</span></p>\n</li>\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">Add &gt; 1 cup water and rest of seasoning to pot</span></p>\n</li>\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain md-expand\">Pressure cook for ~ 8 minutes per pound (10 minutes for 1.5 pounds or gets dry)</span></p>\n</li>\n</ul>\n<p> </p>\n<table class=\"md-table\">\n<thead>\n<tr class=\"md-end-block\">\n<th><span class=\"td-span\"><span class=\"md-plain\">Ingredient</span></span></th>\n<th><span class=\"td-span\"><span class=\"md-plain\">Amount</span></span></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Salt</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">2 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block md-focus-container\">\n<td><span class=\"td-span md-focus\"><span class=\"md-plain md-expand\">Pepper</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Thyme</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">2 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Paprika</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1 1/2 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Oregano</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Onion Powder</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Garlic Powder</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1/2 tsp</span></span></td>\n</tr>\n</tbody>\n</table>",
+            "image": "https://derekjhanson.github.io/food/media/posts/1/IMG_20190916_201343.jpg",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-17T09:11:31-05:00",
+            "date_modified": "2019-09-17T11:23:54-05:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/jimdak-korean-braised-chicken.html",
             "url": "https://derekjhanson.github.io/food/jimdak-korean-braised-chicken.html",
             "title": "Jimdak (Korean Braised Chicken)",
@@ -20,22 +35,8 @@
             },
             "tags": [
             ],
-            "date_published": "2019-09-17T09:21:35-05:00",
-            "date_modified": "2019-09-17T09:21:35-05:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/my-first-meal.html",
-            "url": "https://derekjhanson.github.io/food/my-first-meal.html",
-            "title": "Rotisserie Chicken",
-            "summary": " Tastes like rotisserie chicken, but done in minutes and with any style&hellip;",
-            "content_html": "<h1 id=\"mcetoc_1dkvpbacs0\" class=\"md-end-block md-heading\"> </h1>\n<blockquote>\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">Tastes like rotisserie chicken, but done in minutes and with any style (white, dark, mixed) of meat.</span></p>\n</blockquote>\n<ul class=\"ul-list\" >\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">Rub the rub onto the chicken</span></p>\n</li>\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">Saute for ~ 2 minutes in instapot</span></p>\n</li>\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain\">Add &gt; 1 cup water and rest of seasoning to pot</span></p>\n</li>\n<li class=\"md-list-item\">\n<p class=\"md-end-block md-p\"><span class=\"md-plain md-expand\">Pressure cook for ~ 8 minutes per pound (10 minutes for 1.5 pounds or gets dry)</span></p>\n</li>\n</ul>\n<p> </p>\n<table class=\"md-table\">\n<thead>\n<tr class=\"md-end-block\">\n<th><span class=\"td-span\"><span class=\"md-plain\">Ingredient</span></span></th>\n<th><span class=\"td-span\"><span class=\"md-plain\">Amount</span></span></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Salt</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">2 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block md-focus-container\">\n<td><span class=\"td-span md-focus\"><span class=\"md-plain md-expand\">Pepper</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Thyme</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">2 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Paprika</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1 1/2 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Oregano</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Onion Powder</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1 tsp</span></span></td>\n</tr>\n<tr class=\"md-end-block\">\n<td><span class=\"td-span\"><span class=\"md-plain\">Garlic Powder</span></span></td>\n<td><span class=\"td-span\"><span class=\"md-plain\">1/2 tsp</span></span></td>\n</tr>\n</tbody>\n</table>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-17T09:11:31-05:00",
-            "date_modified": "2019-09-17T09:18:52-05:00"
+            "date_published": "2019-09-13T09:21:00-05:00",
+            "date_modified": "2019-09-17T11:24:33-05:00"
         }
     ]
 }

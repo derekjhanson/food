@@ -3,12 +3,90 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2019-09-17T09:21:43-05:00</updated>
+    <updated>2019-09-17T11:24:39-05:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Rotisserie Chicken</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/my-first-meal.html"/>
+        <id>https://derekjhanson.github.io/food/my-first-meal.html</id>
+
+        <updated>2019-09-17T11:23:54-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://derekjhanson.github.io/food/media/posts/1/IMG_20190916_201343.jpg" alt="" />
+                     Tastes like rotisserie chicken, but done in minutes and with any style&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://derekjhanson.github.io/food/media/posts/1/IMG_20190916_201343.jpg" alt="" />
+                <h1 id="mcetoc_1dkvpbacs0" class="md-end-block md-heading"> </h1>
+<blockquote>
+<p class="md-end-block md-p"><span class="md-plain">Tastes like rotisserie chicken, but done in minutes and with any style (white, dark, mixed) of meat.</span></p>
+</blockquote>
+<ul class="ul-list" >
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">Rub the rub onto the chicken</span></p>
+</li>
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">Saute for ~ 2 minutes in instapot</span></p>
+</li>
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain">Add &gt; 1 cup water and rest of seasoning to pot</span></p>
+</li>
+<li class="md-list-item">
+<p class="md-end-block md-p"><span class="md-plain md-expand">Pressure cook for ~ 8 minutes per pound (10 minutes for 1.5 pounds or gets dry)</span></p>
+</li>
+</ul>
+<p> </p>
+<table class="md-table">
+<thead>
+<tr class="md-end-block">
+<th><span class="td-span"><span class="md-plain">Ingredient</span></span></th>
+<th><span class="td-span"><span class="md-plain">Amount</span></span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">Salt</span></span></td>
+<td><span class="td-span"><span class="md-plain">2 tsp</span></span></td>
+</tr>
+<tr class="md-end-block md-focus-container">
+<td><span class="td-span md-focus"><span class="md-plain md-expand">Pepper</span></span></td>
+<td><span class="td-span"><span class="md-plain">1 tsp</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">Thyme</span></span></td>
+<td><span class="td-span"><span class="md-plain">2 tsp</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">Paprika</span></span></td>
+<td><span class="td-span"><span class="md-plain">1 1/2 tsp</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">Oregano</span></span></td>
+<td><span class="td-span"><span class="md-plain">1 tsp</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">Onion Powder</span></span></td>
+<td><span class="td-span"><span class="md-plain">1 tsp</span></span></td>
+</tr>
+<tr class="md-end-block">
+<td><span class="td-span"><span class="md-plain">Garlic Powder</span></span></td>
+<td><span class="td-span"><span class="md-plain">1/2 tsp</span></span></td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Jimdak (Korean Braised Chicken)</title>
         <author>
@@ -17,7 +95,7 @@
         <link href="https://derekjhanson.github.io/food/jimdak-korean-braised-chicken.html"/>
         <id>https://derekjhanson.github.io/food/jimdak-korean-braised-chicken.html</id>
 
-        <updated>2019-09-17T09:21:35-05:00</updated>
+        <updated>2019-09-17T11:24:33-05:00</updated>
             <summary>
                 <![CDATA[
                      A savory Korean treat, but putting this together takes some prep&hellip;
@@ -124,82 +202,6 @@
 <tr class="md-end-block">
 <td><span class="td-span"><span class="md-plain">Sesame Oil</span></span></td>
 <td><span class="td-span"><span class="md-plain">2 tsp</span></span></td>
-</tr>
-</tbody>
-</table>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Rotisserie Chicken</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/my-first-meal.html"/>
-        <id>https://derekjhanson.github.io/food/my-first-meal.html</id>
-
-        <updated>2019-09-17T09:18:52-05:00</updated>
-            <summary>
-                <![CDATA[
-                     Tastes like rotisserie chicken, but done in minutes and with any style&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <h1 id="mcetoc_1dkvpbacs0" class="md-end-block md-heading"> </h1>
-<blockquote>
-<p class="md-end-block md-p"><span class="md-plain">Tastes like rotisserie chicken, but done in minutes and with any style (white, dark, mixed) of meat.</span></p>
-</blockquote>
-<ul class="ul-list" >
-<li class="md-list-item">
-<p class="md-end-block md-p"><span class="md-plain">Rub the rub onto the chicken</span></p>
-</li>
-<li class="md-list-item">
-<p class="md-end-block md-p"><span class="md-plain">Saute for ~ 2 minutes in instapot</span></p>
-</li>
-<li class="md-list-item">
-<p class="md-end-block md-p"><span class="md-plain">Add &gt; 1 cup water and rest of seasoning to pot</span></p>
-</li>
-<li class="md-list-item">
-<p class="md-end-block md-p"><span class="md-plain md-expand">Pressure cook for ~ 8 minutes per pound (10 minutes for 1.5 pounds or gets dry)</span></p>
-</li>
-</ul>
-<p> </p>
-<table class="md-table">
-<thead>
-<tr class="md-end-block">
-<th><span class="td-span"><span class="md-plain">Ingredient</span></span></th>
-<th><span class="td-span"><span class="md-plain">Amount</span></span></th>
-</tr>
-</thead>
-<tbody>
-<tr class="md-end-block">
-<td><span class="td-span"><span class="md-plain">Salt</span></span></td>
-<td><span class="td-span"><span class="md-plain">2 tsp</span></span></td>
-</tr>
-<tr class="md-end-block md-focus-container">
-<td><span class="td-span md-focus"><span class="md-plain md-expand">Pepper</span></span></td>
-<td><span class="td-span"><span class="md-plain">1 tsp</span></span></td>
-</tr>
-<tr class="md-end-block">
-<td><span class="td-span"><span class="md-plain">Thyme</span></span></td>
-<td><span class="td-span"><span class="md-plain">2 tsp</span></span></td>
-</tr>
-<tr class="md-end-block">
-<td><span class="td-span"><span class="md-plain">Paprika</span></span></td>
-<td><span class="td-span"><span class="md-plain">1 1/2 tsp</span></span></td>
-</tr>
-<tr class="md-end-block">
-<td><span class="td-span"><span class="md-plain">Oregano</span></span></td>
-<td><span class="td-span"><span class="md-plain">1 tsp</span></span></td>
-</tr>
-<tr class="md-end-block">
-<td><span class="td-span"><span class="md-plain">Onion Powder</span></span></td>
-<td><span class="td-span"><span class="md-plain">1 tsp</span></span></td>
-</tr>
-<tr class="md-end-block">
-<td><span class="td-span"><span class="md-plain">Garlic Powder</span></span></td>
-<td><span class="td-span"><span class="md-plain">1/2 tsp</span></span></td>
 </tr>
 </tbody>
 </table>
