@@ -3,12 +3,108 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2019-09-17T21:25:20-05:00</updated>
+    <updated>2019-09-18T18:25:11-05:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Corn on the Cob</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/corn-on-the-cob.html"/>
+        <id>https://derekjhanson.github.io/food/corn-on-the-cob.html</id>
+
+        <updated>2019-09-18T18:25:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                    In the instant pot, simply toss in the trivet, a hint over&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>In the instant pot, simply toss in the trivet, a hint over 1 cup of water, then seal and set to pressure cook for 2 minutes.</p>
+<p>Garnish options:</p>
+<p>Mexican Street Corn - Dry</p>
+<ul>
+<li>lime, cheese, chili powder or tajin seasoning</li>
+</ul>
+<p>Mexican Street Corn - Wet</p>
+<ul>
+<li>lime, cheese, chili powder, mayo and or sour cream</li>
+</ul>
+<p>Taiwanese Street Corn - Wet</p>
+<p>- 3 tablespoons light soy sauce (not low sodium soy sauce)<br>2 tablespoons Shacha sauce (Chinese: 沙茶醬)<br>1 tablespoon sugar<br>1 teaspoon garlic powder<br>¼ teaspoon sesame oil</p>
+<p> </p>
+<ul>
+<li>For the above, can either brush onto corn and bake 5-10 minutes @ 425 </li>
+<li>OR simply cut off corn from cob, place into bowl and mix in the ingredients like a salad</li>
+</ul>
+<p>Made: 9/18/19</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Savory Smushed Potatoes</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/savory-smushed-potatoes.html"/>
+        <id>https://derekjhanson.github.io/food/savory-smushed-potatoes.html</id>
+
+        <updated>2019-09-18T07:47:29-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Tired of regular baked or mashed potatoes? Try this hybrid packed with&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Tired of regular baked or mashed potatoes? Try this hybrid packed with flavor.</p>
+<table>
+<tbody>
+<tr>
+<td>Ingredient</td>
+<td>Amount</td>
+</tr>
+<tr>
+<td>Salt</td>
+<td>2 tsp</td>
+</tr>
+<tr>
+<td>Pepper</td>
+<td>1 tsp</td>
+</tr>
+<tr>
+<td>Thyme</td>
+<td>2 tsp</td>
+</tr>
+<tr>
+<td>Paprika</td>
+<td>1 1/2 tsp</td>
+</tr>
+<tr>
+<td>Oregano</td>
+<td>1 tsp</td>
+</tr>
+<tr>
+<td>Onion Powder</td>
+<td>1 tsp</td>
+</tr>
+<tr>
+<td>Garlic</td>
+<td>1/2 tsp</td>
+</tr>
+</tbody>
+</table>
+<p>Mix up the spices, then brush olive oil onto potatoes and dust with the seasoning.</p>
+<p> </p>
+<p>Made: 9/?/19 </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Moroccan Chicken Tagine</title>
         <author>

@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/corn-on-the-cob.html",
+            "url": "https://derekjhanson.github.io/food/corn-on-the-cob.html",
+            "title": "Corn on the Cob",
+            "summary": "In the instant pot, simply toss in the trivet, a hint over&hellip;",
+            "content_html": "<p>In the instant pot, simply toss in the trivet, a hint over 1 cup of water, then seal and set to pressure cook for 2 minutes.</p>\n<p>Garnish options:</p>\n<p>Mexican Street Corn - Dry</p>\n<ul>\n<li>lime, cheese, chili powder or tajin seasoning</li>\n</ul>\n<p>Mexican Street Corn - Wet</p>\n<ul>\n<li>lime, cheese, chili powder, mayo and or sour cream</li>\n</ul>\n<p>Taiwanese Street Corn - Wet</p>\n<p>- 3 tablespoons light soy sauce (not low sodium soy sauce)<br>2 tablespoons Shacha sauce (Chinese: 沙茶醬)<br>1 tablespoon sugar<br>1 teaspoon garlic powder<br>¼ teaspoon sesame oil</p>\n<p> </p>\n<ul>\n<li>For the above, can either brush onto corn and bake 5-10 minutes @ 425 </li>\n<li>OR simply cut off corn from cob, place into bowl and mix in the ingredients like a salad</li>\n</ul>\n<p>Made: 9/18/19</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-18T18:25:06-05:00",
+            "date_modified": "2019-09-18T18:25:06-05:00"
+        },
+        {
+            "id": "https://derekjhanson.github.io/food/savory-smushed-potatoes.html",
+            "url": "https://derekjhanson.github.io/food/savory-smushed-potatoes.html",
+            "title": "Savory Smushed Potatoes",
+            "summary": "Tired of regular baked or mashed potatoes? Try this hybrid packed with&hellip;",
+            "content_html": "<p>Tired of regular baked or mashed potatoes? Try this hybrid packed with flavor.</p>\n<table>\n<tbody>\n<tr>\n<td>Ingredient</td>\n<td>Amount</td>\n</tr>\n<tr>\n<td>Salt</td>\n<td>2 tsp</td>\n</tr>\n<tr>\n<td>Pepper</td>\n<td>1 tsp</td>\n</tr>\n<tr>\n<td>Thyme</td>\n<td>2 tsp</td>\n</tr>\n<tr>\n<td>Paprika</td>\n<td>1 1/2 tsp</td>\n</tr>\n<tr>\n<td>Oregano</td>\n<td>1 tsp</td>\n</tr>\n<tr>\n<td>Onion Powder</td>\n<td>1 tsp</td>\n</tr>\n<tr>\n<td>Garlic</td>\n<td>1/2 tsp</td>\n</tr>\n</tbody>\n</table>\n<p>Mix up the spices, then brush olive oil onto potatoes and dust with the seasoning.</p>\n<p> </p>\n<p>Made: 9/?/19 </p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-18T07:47:29-05:00",
+            "date_modified": "2019-09-18T07:47:29-05:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/moroccan-chicken-tagine.html",
             "url": "https://derekjhanson.github.io/food/moroccan-chicken-tagine.html",
             "title": "Moroccan Chicken Tagine",
