@@ -3,33 +3,37 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2019-09-22T19:04:17-05:00</updated>
+    <updated>2019-09-23T07:45:00-05:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
     <entry>
-        <title>Steak, Purple Potatoes, and Asparagus</title>
+        <title>Purple Potatoes</title>
         <author>
             <name>The Hansons</name>
         </author>
         <link href="https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html"/>
         <id>https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html</id>
 
-        <updated>2019-09-22T19:04:06-05:00</updated>
+        <updated>2019-09-23T07:44:53-05:00</updated>
             <summary>
                 <![CDATA[
-                    Saute steak (or cook on grill) In instant pot, add 1 1/4&hellip;
+                        <img src="https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpeg" alt="" />
+                    Chop potatoes into evenish chunks. Removal of skin is optional. In instant&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Saute steak (or cook on grill)</p>
+                    <img src="https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpeg" alt="" />
+                <p>Chop potatoes into evenish chunks. Removal of skin is optional.</p>
 <p>In instant pot, add 1 1/4 cup water, 2 large purple potatoes, dash of chives, dash of garlic powder, 1 tbsp butter - pressure cook 10 minutes</p>
-<p>saute asparagus with butter (cut in half to fit in pressure cooker)</p>
+<p>Add cream cheese or milk to soften potatoes (make fluffier) - amount?</p>
+<p> <img class="post__image" src="https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpeg" alt="" width="3846" height="2588"></p>
+<p><img class="post__image--center" src="https://derekjhanson.github.io/food/media/posts/7/_OOO2036.jpeg" alt="" width="3601" height="2553"></p>
 <p> </p>
-<p>Made: 9/22/19</p>
+<p>Made: 9/22/19 with steak and buttered asparagus</p>
             ]]>
         </content>
     </entry>
