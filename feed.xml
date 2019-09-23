@@ -3,12 +3,61 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2019-09-18T18:25:11-05:00</updated>
+    <updated>2019-09-22T19:04:17-05:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Steak, Purple Potatoes, and Asparagus</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html"/>
+        <id>https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html</id>
+
+        <updated>2019-09-22T19:04:06-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Saute steak (or cook on grill) In instant pot, add 1 1/4&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Saute steak (or cook on grill)</p>
+<p>In instant pot, add 1 1/4 cup water, 2 large purple potatoes, dash of chives, dash of garlic powder, 1 tbsp butter - pressure cook 10 minutes</p>
+<p>saute asparagus with butter (cut in half to fit in pressure cooker)</p>
+<p> </p>
+<p>Made: 9/22/19</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Coffee for Days</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/coffee-for-days.html"/>
+        <id>https://derekjhanson.github.io/food/coffee-for-days.html</id>
+
+        <updated>2019-09-22T15:13:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Brew a giant batch of your favorite brew to get cold brew&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Brew a giant batch of your favorite brew to get cold brew for days.</p>
+<p>1.25 cups of coffee</p>
+<p>16 cups of water</p>
+<p>pressure cook for 5 minutes</p>
+<p>filter the coffee into containers</p>
+<p>Made: 9/22/19 might try 4 minutes next time (coffee good, but smelled overdone)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Corn on the Cob</title>
         <author>

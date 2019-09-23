@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html",
+            "url": "https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html",
+            "title": "Steak, Purple Potatoes, and Asparagus",
+            "summary": "Saute steak (or cook on grill) In instant pot, add 1 1/4&hellip;",
+            "content_html": "<p>Saute steak (or cook on grill)</p>\n<p>In instant pot, add 1 1/4 cup water, 2 large purple potatoes, dash of chives, dash of garlic powder, 1 tbsp butter - pressure cook 10 minutes</p>\n<p>saute asparagus with butter (cut in half to fit in pressure cooker)</p>\n<p> </p>\n<p>Made: 9/22/19</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-22T19:04:06-05:00",
+            "date_modified": "2019-09-22T19:04:06-05:00"
+        },
+        {
+            "id": "https://derekjhanson.github.io/food/coffee-for-days.html",
+            "url": "https://derekjhanson.github.io/food/coffee-for-days.html",
+            "title": "Coffee for Days",
+            "summary": "Brew a giant batch of your favorite brew to get cold brew&hellip;",
+            "content_html": "<p>Brew a giant batch of your favorite brew to get cold brew for days.</p>\n<p>1.25 cups of coffee</p>\n<p>16 cups of water</p>\n<p>pressure cook for 5 minutes</p>\n<p>filter the coffee into containers</p>\n<p>Made: 9/22/19 might try 4 minutes next time (coffee good, but smelled overdone)</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-22T15:13:40-05:00",
+            "date_modified": "2019-09-22T15:13:40-05:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/corn-on-the-cob.html",
             "url": "https://derekjhanson.github.io/food/corn-on-the-cob.html",
             "title": "Corn on the Cob",
