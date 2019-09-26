@@ -3,12 +3,35 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2019-09-23T13:52:38-05:00</updated>
+    <updated>2019-09-26T07:56:09-05:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Turkey Veggie Delight</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/turkey-veggie-delight.html"/>
+        <id>https://derekjhanson.github.io/food/turkey-veggie-delight.html</id>
+
+        <updated>2019-09-26T07:55:24-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://derekjhanson.github.io/food/media/posts/8/veggies.jpg" alt="" />
+                    Pan roasted deliciousness. And all it takes is some aggressive chopping. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://derekjhanson.github.io/food/media/posts/8/veggies.jpg" alt="" />
+                <p>Pan roasted deliciousness. And all it takes is some aggressive chopping.</p>
+<p><img class="post__image" src="https://derekjhanson.github.io/food/media/posts/8/veggies.jpg" alt="" width="832" height="1124"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Purple Potatoes</title>
         <author>
@@ -17,21 +40,21 @@
         <link href="https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html"/>
         <id>https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html</id>
 
-        <updated>2019-09-23T13:52:14-05:00</updated>
+        <updated>2019-09-26T07:56:03-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpeg" alt="" />
+                        <img src="https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpg" alt="" />
                     Chop potatoes into evenish chunks. Removal of skin is optional. In instant&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpeg" alt="" />
+                    <img src="https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpg" alt="" />
                 <p>Chop potatoes into evenish chunks. Removal of skin is optional.</p>
 <p>In instant pot, add 1 1/4 cup water, 2 large purple potatoes, dash of chives, dash of garlic powder, 1 tbsp butter - pressure cook 10 minutes</p>
 <p>Add cream cheese or milk to soften potatoes (make fluffier) - amount?</p>
-<p> <img class="post__image" src="https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpeg" alt="" width="3846" height="2588"></p>
-<p><img class="post__image--center" src="https://derekjhanson.github.io/food/media/posts/7/_OOO2036.jpeg" alt="" width="3601" height="2553"></p>
+<p> <img class="post__image" src="https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpg" alt="" width="3846" height="2588"></p>
+<p><img class="post__image" src="https://derekjhanson.github.io/food/media/posts/7/_OOO2036.jpg" alt="" width="3601" height="2553"></p>
 <p> </p>
 <p>Made: 9/22/19 with steak and buttered asparagus</p>
             ]]>
