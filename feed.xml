@@ -3,12 +3,88 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2019-10-11T18:50:20-05:00</updated>
+    <updated>2019-10-11T19:07:26-05:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Butter Chicken</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/butter-chicken.html"/>
+        <id>https://derekjhanson.github.io/food/butter-chicken.html</id>
+
+        <updated>2019-10-11T19:07:21-05:00</updated>
+            <summary>
+                <![CDATA[
+                    The yummiest recipe from New Zealand. Why don't we have more of&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>The yummiest recipe from New Zealand. Why don't we have more of this here????</p>
+<table>
+<tbody>
+<tr>
+<td>2 lbs</td>
+<td>chicken (thighs or breasts)</td>
+</tr>
+<tr>
+<td>4 tbs</td>
+<td>butter</td>
+</tr>
+<tr>
+<td>1/2</td>
+<td>onion</td>
+</tr>
+<tr>
+<td>4 cloves</td>
+<td>garlic</td>
+</tr>
+<tr>
+<td>2 tbs</td>
+<td>ginger (fresh cut)</td>
+</tr>
+<tr>
+<td>1 tbs</td>
+<td>curry</td>
+</tr>
+<tr>
+<td>2 tsp</td>
+<td>garam masala</td>
+</tr>
+<tr>
+<td>1 tsp</td>
+<td>himalayan pink salt</td>
+</tr>
+<tr>
+<td>3/4 tsp</td>
+<td>paprika</td>
+</tr>
+<tr>
+<td>15 oz</td>
+<td>tomato sauce</td>
+</tr>
+<tr>
+<td>1 cup</td>
+<td>heavy cream</td>
+</tr>
+<tr>
+<td>several sprigs</td>
+<td>cilantro</td>
+</tr>
+</tbody>
+</table>
+<p> Saute butter, onion, garlic, ginger, and spices in instant pot for ~5 minutes.</p>
+<p>Add chicken, tomato sauce, cook for 8 minutes (?).</p>
+<p>Stir in heavy cream, simmer in instant pot for ~2 minutes.</p>
+<p>Be sure to cook basmati rice at same time in rice cooker!!!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Chicken, Quinoa, Sweet Potatoes, &amp; Cheese</title>
         <author>
@@ -544,65 +620,6 @@
 <li>OR simply cut off corn from cob, place into bowl and mix in the ingredients like a salad</li>
 </ul>
 <p>Made: 9/18/19</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Savory Smushed Potatoes</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/savory-smushed-potatoes.html"/>
-        <id>https://derekjhanson.github.io/food/savory-smushed-potatoes.html</id>
-
-        <updated>2019-09-18T07:47:29-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Tired of regular baked or mashed potatoes? Try this hybrid packed with&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Tired of regular baked or mashed potatoes? Try this hybrid packed with flavor.</p>
-<table>
-<tbody>
-<tr>
-<td>Ingredient</td>
-<td>Amount</td>
-</tr>
-<tr>
-<td>Salt</td>
-<td>2 tsp</td>
-</tr>
-<tr>
-<td>Pepper</td>
-<td>1 tsp</td>
-</tr>
-<tr>
-<td>Thyme</td>
-<td>2 tsp</td>
-</tr>
-<tr>
-<td>Paprika</td>
-<td>1 1/2 tsp</td>
-</tr>
-<tr>
-<td>Oregano</td>
-<td>1 tsp</td>
-</tr>
-<tr>
-<td>Onion Powder</td>
-<td>1 tsp</td>
-</tr>
-<tr>
-<td>Garlic</td>
-<td>1/2 tsp</td>
-</tr>
-</tbody>
-</table>
-<p>Mix up the spices, then brush olive oil onto potatoes and dust with the seasoning.</p>
-<p> </p>
-<p>Made: 9/?/19 </p>
             ]]>
         </content>
     </entry>
