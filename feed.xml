@@ -3,12 +3,83 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2019-10-14T07:15:09-05:00</updated>
+    <updated>2019-10-23T17:46:20-05:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Porky Chops</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/porky-chops.html"/>
+        <id>https://derekjhanson.github.io/food/porky-chops.html</id>
+
+        <updated>2019-10-23T17:46:12-05:00</updated>
+            <summary>
+                <![CDATA[
+                    AmountIngredient1lbpork chops2 tbsbrown sugar1 tspsalt1 tsppepper1 tsppaprika1/2 tsponion powder2 tbsbutter1 1/4 cupwater1&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table>
+<tbody>
+<tr>
+<td>Amount</td>
+<td>Ingredient</td>
+</tr>
+<tr>
+<td>1lb</td>
+<td>pork chops</td>
+</tr>
+<tr>
+<td>2 tbs</td>
+<td>brown sugar</td>
+</tr>
+<tr>
+<td>1 tsp</td>
+<td>salt</td>
+</tr>
+<tr>
+<td>1 tsp</td>
+<td>pepper</td>
+</tr>
+<tr>
+<td>1 tsp</td>
+<td>paprika</td>
+</tr>
+<tr>
+<td>1/2 tsp</td>
+<td>onion powder</td>
+</tr>
+<tr>
+<td>2 tbs</td>
+<td>butter</td>
+</tr>
+<tr>
+<td>1 1/4 cup</td>
+<td>water</td>
+</tr>
+<tr>
+<td>1 tsp</td>
+<td>maple syrup</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>Add tbs butter to pot, turn on saute, wait until hot before adding seasoned meat</p>
+<p>Saute 1-2 minutes per side after seasoning</p>
+<p>Add 1 1/4 cup water and ~1 tsp maple syrup</p>
+<p>Pressure cook 7 minutes (1lb of pork chops)</p>
+<p> </p>
+<p>Options: liquid smoke, worcestershire sauce</p>
+<p>Made: 10/23/19</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Butter Chicken</title>
         <author>
@@ -587,43 +658,6 @@
 <p><img class="post__image" src="https://derekjhanson.github.io/food/media/posts/7/_OOO2036.jpg" alt="" width="3601" height="2553"></p>
 <p> </p>
 <p>Made: 9/22/19 with steak and buttered asparagus</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Corn on the Cob</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/corn-on-the-cob.html"/>
-        <id>https://derekjhanson.github.io/food/corn-on-the-cob.html</id>
-
-        <updated>2019-09-18T18:25:06-05:00</updated>
-            <summary>
-                <![CDATA[
-                    In the instant pot, simply toss in the trivet, a hint over&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>In the instant pot, simply toss in the trivet, a hint over 1 cup of water, then seal and set to pressure cook for 2 minutes.</p>
-<p>Garnish options:</p>
-<p>Mexican Street Corn - Dry</p>
-<ul>
-<li>lime, cheese, chili powder or tajin seasoning</li>
-</ul>
-<p>Mexican Street Corn - Wet</p>
-<ul>
-<li>lime, cheese, chili powder, mayo and or sour cream</li>
-</ul>
-<p>Taiwanese Street Corn - Wet</p>
-<p>- 3 tablespoons light soy sauce (not low sodium soy sauce)<br>2 tablespoons Shacha sauce (Chinese: 沙茶醬)<br>1 tablespoon sugar<br>1 teaspoon garlic powder<br>¼ teaspoon sesame oil</p>
-<p> </p>
-<ul>
-<li>For the above, can either brush onto corn and bake 5-10 minutes @ 425 </li>
-<li>OR simply cut off corn from cob, place into bowl and mix in the ingredients like a salad</li>
-</ul>
-<p>Made: 9/18/19</p>
             ]]>
         </content>
     </entry>
