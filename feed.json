@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/chicken-tortilla-soup.html",
+            "url": "https://derekjhanson.github.io/food/chicken-tortilla-soup.html",
+            "title": "Chicken Tortilla Soup",
+            "summary": "A crock pot meal with hidden heat. Add butter to saute pan,&hellip;",
+            "content_html": "<p>A crock pot meal with hidden heat.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>3 tbs</td>\n<td>Butter</td>\n</tr>\n<tr>\n<td>1/2</td>\n<td>Onion</td>\n</tr>\n<tr>\n<td>2 cloves</td>\n<td>Garlic</td>\n</tr>\n<tr>\n<td>2 cups</td>\n<td>Broth/Water</td>\n</tr>\n<tr>\n<td>1 lb</td>\n<td>Chicken Breasts</td>\n</tr>\n<tr>\n<td>2 tsp</td>\n<td>Cumin</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Chili Powder</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Oregano</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Taco Seasoning</td>\n</tr>\n<tr>\n<td>14 oz</td>\n<td>Red Enchilada Sauce</td>\n</tr>\n<tr>\n<td>1-2 cups</td>\n<td>Heavy Cream</td>\n</tr>\n<tr>\n<td>Sprigs</td>\n<td>Cilantro</td>\n</tr>\n<tr>\n<td>Can</td>\n<td>Corn (optional)</td>\n</tr>\n</tbody>\n</table>\n<p> Add butter to saute pan, cook with onion, garlic.</p>\n<p>Add base ingredients to crock pot, then add chicken breasts on top. Cook on high for 3-4 hours.</p>\n<p>When complete, shred the chicken with a fork. Then add the heavy cream? Cook on high for another hour. Serve with cilantro garnish and tortilla strips.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-08T18:55:53-06:00",
+            "date_modified": "2019-11-08T18:55:53-06:00"
+        },
+        {
+            "id": "https://derekjhanson.github.io/food/butternut-squash-chili.html",
+            "url": "https://derekjhanson.github.io/food/butternut-squash-chili.html",
+            "title": "Butternut Squash Chili",
+            "summary": "For those cold nights. Saute ground turkey and onions 3-5 minutes. If&hellip;",
+            "content_html": "<p>For those cold nights.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>Lots</td>\n<td>Butternut Squash</td>\n</tr>\n<tr>\n<td>1/4</td>\n<td>White Onion</td>\n</tr>\n<tr>\n<td>dash</td>\n<td>Garlic Powder</td>\n</tr>\n<tr>\n<td>15 oz</td>\n<td>Tomato Sauce</td>\n</tr>\n<tr>\n<td>15 oz</td>\n<td>Kidney Beans</td>\n</tr>\n<tr>\n<td>15 oz </td>\n<td>Great Northern Beans</td>\n</tr>\n<tr>\n<td>3/4 cup</td>\n<td>Water</td>\n</tr>\n<tr>\n<td>1 lb</td>\n<td>Ground Turkey</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Chili Powder</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Cumin</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Paprika</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Cocoa Powder</td>\n</tr>\n<tr>\n<td>3/4 tsp</td>\n<td>Salt</td>\n</tr>\n<tr>\n<td>1/4 tsp</td>\n<td>Black Pepper</td>\n</tr>\n<tr>\n<td>Splash</td>\n<td>Maple Syrup</td>\n</tr>\n<tr>\n<td>Big Splash</td>\n<td>Peach Pecan Whiskey (Old Camp)</td>\n</tr>\n</tbody>\n</table>\n<p> Saute ground turkey and onions 3-5 minutes. If low fat turkey, may need to add splash of water.</p>\n<p>Then add all other ingredients and cook for 18 minutes on pressure cook.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-08T18:43:33-06:00",
+            "date_modified": "2019-11-08T18:56:37-06:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/porky-chops.html",
             "url": "https://derekjhanson.github.io/food/porky-chops.html",
             "title": "Porky Chops",
@@ -120,36 +148,6 @@
             ],
             "date_published": "2019-09-30T18:29:18-05:00",
             "date_modified": "2019-09-30T21:24:46-05:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/turkey-veggie-delight.html",
-            "url": "https://derekjhanson.github.io/food/turkey-veggie-delight.html",
-            "title": "Turkey Veggie Delight",
-            "summary": "Pan roasted deliciousness. And all it takes is some aggressive chopping. ",
-            "content_html": "<p>Pan roasted deliciousness. And all it takes is some aggressive chopping.</p>\n<p><img class=\"post__image\" src=\"https://derekjhanson.github.io/food/media/posts/8/veggies.jpg\" alt=\"\" width=\"832\" height=\"1124\"></p>",
-            "image": "https://derekjhanson.github.io/food/media/posts/8/veggies.jpg",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-26T07:55:24-05:00",
-            "date_modified": "2019-09-26T07:55:24-05:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html",
-            "url": "https://derekjhanson.github.io/food/steak-purple-potatoes-and-asparagus.html",
-            "title": "Purple Potatoes",
-            "summary": "Chop potatoes into evenish chunks. Removal of skin is optional. In instant&hellip;",
-            "content_html": "<p>Chop potatoes into evenish chunks. Removal of skin is optional.</p>\n<p>In instant pot, add 1 1/4 cup water, 2 large purple potatoes, dash of chives, dash of garlic powder, 1 tbsp butter - pressure cook 10 minutes</p>\n<p>Add cream cheese or milk to soften potatoes (make fluffier) - amount?</p>\n<p> <img class=\"post__image\" src=\"https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpg\" alt=\"\" width=\"3846\" height=\"2588\"></p>\n<p><img class=\"post__image\" src=\"https://derekjhanson.github.io/food/media/posts/7/_OOO2036.jpg\" alt=\"\" width=\"3601\" height=\"2553\"></p>\n<p> </p>\n<p>Made: 9/22/19 with steak and buttered asparagus</p>",
-            "image": "https://derekjhanson.github.io/food/media/posts/7/_OOO2022.jpg",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-09-22T19:04:06-05:00",
-            "date_modified": "2019-09-26T07:56:03-05:00"
         }
     ]
 }
