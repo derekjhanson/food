@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/brandys-drop-biscuits.html",
+            "url": "https://derekjhanson.github.io/food/brandys-drop-biscuits.html",
+            "title": "Brandy&#x27;s Drop Biscuits",
+            "summary": "Yum yum.AmountIngredient2 cupsBaking flour1 tbsbaking powder1/2 tbssugar1/4 tspsalt1/2 cupmelted butter (1 stick)1&hellip;",
+            "content_html": "<p>Yum yum.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>2 cups</td>\n<td>Baking flour</td>\n</tr>\n<tr>\n<td>1 tbs</td>\n<td>baking powder</td>\n</tr>\n<tr>\n<td>1/2 tbs</td>\n<td>sugar</td>\n</tr>\n<tr>\n<td>1/4 tsp</td>\n<td>salt</td>\n</tr>\n<tr>\n<td>1/2 cup</td>\n<td>melted butter (1 stick)</td>\n</tr>\n<tr>\n<td>1 cup</td>\n<td>milk</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>heat oven to 450 degrees</li>\n<li>mix together flur, baking powder, sugar, salt</li>\n<li>add melted butter and milk, stir just until moistened</li>\n<li>drop biscuits onto lightly greased baking sheet</li>\n<li>cook for 10 to 12 minutes or until edges turn golden brown</li>\n</ul>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-05T13:07:40-06:00",
+            "date_modified": "2020-01-05T13:07:40-06:00"
+        },
+        {
+            "id": "https://derekjhanson.github.io/food/carrots-and-squash.html",
+            "url": "https://derekjhanson.github.io/food/carrots-and-squash.html",
+            "title": "Carrots and Squash",
+            "summary": "Instant pot carrots and squash. Simply chop up each, add &gt;1 cup&hellip;",
+            "content_html": "<p>Instant pot carrots and squash.</p>\n<p>Simply chop up each, add &gt;1 cup water, pressure cook on high for 3 minutes. </p>\n<p>Then can drizzle with olive oil and spices (like thyme or harissa), or just eat plain!</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-05T13:03:04-06:00",
+            "date_modified": "2020-01-05T13:03:04-06:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/lasagna-who-needs-meat-x3.html",
             "url": "https://derekjhanson.github.io/food/lasagna-who-needs-meat-x3.html",
             "title": "Lasagna, Who Needs Meat? (x3)",
@@ -120,34 +148,6 @@
             ],
             "date_published": "2019-10-09T18:36:12-05:00",
             "date_modified": "2019-10-09T18:36:12-05:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/garam-masala.html",
-            "url": "https://derekjhanson.github.io/food/garam-masala.html",
-            "title": "Garam Masala",
-            "summary": "Make the spice with spices! 1 tablespoon ground cumin1 1/2 teaspoons ground&hellip;",
-            "content_html": "<p>Make the spice with spices!</p>\n<p> </p>\n<ul style=\"margin-left: .375in; direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in;\" type=\"disc\">\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Verdana; font-size: 12.0pt;\">1 tablespoon ground cumin</span></li>\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Verdana; font-size: 12.0pt;\">1 1/2 teaspoons ground coriander</span></li>\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Verdana; font-size: 12.0pt;\">1 1/2 teaspoons ground cardamom</span></li>\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Verdana; font-size: 12.0pt;\">1 1/2 teaspoons ground black pepper</span></li>\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Verdana; font-size: 12.0pt;\">1 teaspoon ground cinnamon</span></li>\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Verdana; font-size: 12.0pt;\">1/2 teaspoon ground cloves</span></li>\n<li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Verdana; font-size: 12.0pt;\">1/2 teaspoon ground nutmeg</span></li>\n</ul>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-10-09T18:35:35-05:00",
-            "date_modified": "2019-10-09T18:35:35-05:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/tikka-masala-vegetarian.html",
-            "url": "https://derekjhanson.github.io/food/tikka-masala-vegetarian.html",
-            "title": "Tikka Masala (vegetarian)",
-            "summary": "The veggie option Made: 10/9/19, accidentally put yogurt in before cook (so&hellip;",
-            "content_html": "<p>The veggie option</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>2 tbsp</td>\n<td>butter</td>\n</tr>\n<tr>\n<td>1/2</td>\n<td>medium onion</td>\n</tr>\n<tr>\n<td>3</td>\n<td>cloves of garlic</td>\n</tr>\n<tr>\n<td>1 tbsp</td>\n<td>ginger</td>\n</tr>\n<tr>\n<td>2 tsp</td>\n<td>garam masala</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>curry</td>\n</tr>\n<tr>\n<td>1/2 tsp</td>\n<td>chipotle chilis</td>\n</tr>\n<tr>\n<td>1/4 tsp</td>\n<td>cumin</td>\n</tr>\n<tr>\n<td>1/2 tsp</td>\n<td>himalayan pink salt</td>\n</tr>\n<tr>\n<td>28 oz can</td>\n<td>diced tomatoes</td>\n</tr>\n<tr>\n<td>2 tbsp</td>\n<td>maple syrup</td>\n</tr>\n<tr>\n<td>1</td>\n<td>cauliflower head</td>\n</tr>\n<tr>\n<td>8 oz</td>\n<td>yogurt (honey - noosa)</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>Saute butter, garlic, ginger, onion for 3-4 minutes.</li>\n<li>Add ~ 2 tbsp water and the spices, stir while cooking for another minute or so</li>\n<li>Add diced tomatoes, cauliflower, maple syrup (yogurt?) and pressure cook for 2 minutes</li>\n<li>Serve with rice (or naan) - make sure you're cooking this at the same time! :)</li>\n</ul>\n<p> </p>\n<p>Made: 10/9/19, accidentally put yogurt in before cook (so pressure cooked yogurt)</p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-10-09T18:34:28-05:00",
-            "date_modified": "2019-10-09T18:34:28-05:00"
         }
     ]
 }

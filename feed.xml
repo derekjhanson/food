@@ -3,12 +3,93 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2020-01-03T12:43:45-06:00</updated>
+    <updated>2020-01-05T13:08:11-06:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Brandy&#x27;s Drop Biscuits</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/brandys-drop-biscuits.html"/>
+        <id>https://derekjhanson.github.io/food/brandys-drop-biscuits.html</id>
+
+        <updated>2020-01-05T13:07:40-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Yum yum.AmountIngredient2 cupsBaking flour1 tbsbaking powder1/2 tbssugar1/4 tspsalt1/2 cupmelted butter (1 stick)1&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Yum yum.</p>
+<table>
+<tbody>
+<tr>
+<td>Amount</td>
+<td>Ingredient</td>
+</tr>
+<tr>
+<td>2 cups</td>
+<td>Baking flour</td>
+</tr>
+<tr>
+<td>1 tbs</td>
+<td>baking powder</td>
+</tr>
+<tr>
+<td>1/2 tbs</td>
+<td>sugar</td>
+</tr>
+<tr>
+<td>1/4 tsp</td>
+<td>salt</td>
+</tr>
+<tr>
+<td>1/2 cup</td>
+<td>melted butter (1 stick)</td>
+</tr>
+<tr>
+<td>1 cup</td>
+<td>milk</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>heat oven to 450 degrees</li>
+<li>mix together flur, baking powder, sugar, salt</li>
+<li>add melted butter and milk, stir just until moistened</li>
+<li>drop biscuits onto lightly greased baking sheet</li>
+<li>cook for 10 to 12 minutes or until edges turn golden brown</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Carrots and Squash</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/carrots-and-squash.html"/>
+        <id>https://derekjhanson.github.io/food/carrots-and-squash.html</id>
+
+        <updated>2020-01-05T13:03:04-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Instant pot carrots and squash. Simply chop up each, add &gt;1 cup&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Instant pot carrots and squash.</p>
+<p>Simply chop up each, add &gt;1 cup water, pressure cook on high for 3 minutes. </p>
+<p>Then can drizzle with olive oil and spices (like thyme or harissa), or just eat plain!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lasagna, Who Needs Meat? (x3)</title>
         <author>
@@ -673,124 +754,6 @@
 </tbody>
 </table>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Garam Masala</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/garam-masala.html"/>
-        <id>https://derekjhanson.github.io/food/garam-masala.html</id>
-
-        <updated>2019-10-09T18:35:35-05:00</updated>
-            <summary>
-                <![CDATA[
-                    Make the spice with spices! 1 tablespoon ground cumin1 1/2 teaspoons ground&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Make the spice with spices!</p>
-<p> </p>
-<ul style="margin-left: .375in; direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in;" type="disc">
-<li style="margin-top: 0; margin-bottom: 0; vertical-align: middle;"><span style="font-family: Verdana; font-size: 12.0pt;">1 tablespoon ground cumin</span></li>
-<li style="margin-top: 0; margin-bottom: 0; vertical-align: middle;"><span style="font-family: Verdana; font-size: 12.0pt;">1 1/2 teaspoons ground coriander</span></li>
-<li style="margin-top: 0; margin-bottom: 0; vertical-align: middle;"><span style="font-family: Verdana; font-size: 12.0pt;">1 1/2 teaspoons ground cardamom</span></li>
-<li style="margin-top: 0; margin-bottom: 0; vertical-align: middle;"><span style="font-family: Verdana; font-size: 12.0pt;">1 1/2 teaspoons ground black pepper</span></li>
-<li style="margin-top: 0; margin-bottom: 0; vertical-align: middle;"><span style="font-family: Verdana; font-size: 12.0pt;">1 teaspoon ground cinnamon</span></li>
-<li style="margin-top: 0; margin-bottom: 0; vertical-align: middle;"><span style="font-family: Verdana; font-size: 12.0pt;">1/2 teaspoon ground cloves</span></li>
-<li style="margin-top: 0; margin-bottom: 0; vertical-align: middle;"><span style="font-family: Verdana; font-size: 12.0pt;">1/2 teaspoon ground nutmeg</span></li>
-</ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tikka Masala (vegetarian)</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/tikka-masala-vegetarian.html"/>
-        <id>https://derekjhanson.github.io/food/tikka-masala-vegetarian.html</id>
-
-        <updated>2019-10-09T18:34:28-05:00</updated>
-            <summary>
-                <![CDATA[
-                    The veggie option Made: 10/9/19, accidentally put yogurt in before cook (so&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>The veggie option</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>2 tbsp</td>
-<td>butter</td>
-</tr>
-<tr>
-<td>1/2</td>
-<td>medium onion</td>
-</tr>
-<tr>
-<td>3</td>
-<td>cloves of garlic</td>
-</tr>
-<tr>
-<td>1 tbsp</td>
-<td>ginger</td>
-</tr>
-<tr>
-<td>2 tsp</td>
-<td>garam masala</td>
-</tr>
-<tr>
-<td>1 tsp</td>
-<td>curry</td>
-</tr>
-<tr>
-<td>1/2 tsp</td>
-<td>chipotle chilis</td>
-</tr>
-<tr>
-<td>1/4 tsp</td>
-<td>cumin</td>
-</tr>
-<tr>
-<td>1/2 tsp</td>
-<td>himalayan pink salt</td>
-</tr>
-<tr>
-<td>28 oz can</td>
-<td>diced tomatoes</td>
-</tr>
-<tr>
-<td>2 tbsp</td>
-<td>maple syrup</td>
-</tr>
-<tr>
-<td>1</td>
-<td>cauliflower head</td>
-</tr>
-<tr>
-<td>8 oz</td>
-<td>yogurt (honey - noosa)</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>Saute butter, garlic, ginger, onion for 3-4 minutes.</li>
-<li>Add ~ 2 tbsp water and the spices, stir while cooking for another minute or so</li>
-<li>Add diced tomatoes, cauliflower, maple syrup (yogurt?) and pressure cook for 2 minutes</li>
-<li>Serve with rice (or naan) - make sure you're cooking this at the same time! :)</li>
-</ul>
-<p> </p>
-<p>Made: 10/9/19, accidentally put yogurt in before cook (so pressure cooked yogurt)</p>
             ]]>
         </content>
     </entry>
