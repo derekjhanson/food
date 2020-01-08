@@ -3,12 +3,89 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2020-01-05T13:36:51-06:00</updated>
+    <updated>2020-01-08T09:14:30-06:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Cauliflower Mexican &quot;Nachos&quot;</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/cauliflower-mexican-nachos.html"/>
+        <id>https://derekjhanson.github.io/food/cauliflower-mexican-nachos.html</id>
+
+        <updated>2020-01-08T09:14:15-06:00</updated>
+            <summary>
+                <![CDATA[
+                    A nacho delight using seasoned cauliflower instead of chips. Preheat oven to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A nacho delight using seasoned cauliflower instead of chips.</p>
+<table>
+<tbody>
+<tr>
+<td>Amount</td>
+<td>Ingredient</td>
+</tr>
+<tr>
+<td>3 tbs</td>
+<td>grapeseed oil</td>
+</tr>
+<tr>
+<td>3/4 tsp</td>
+<td>chili powder</td>
+</tr>
+<tr>
+<td>3/4 tsp</td>
+<td>cumin</td>
+</tr>
+<tr>
+<td>3/4 tsp</td>
+<td>onion powder</td>
+</tr>
+<tr>
+<td>1/4 tsp</td>
+<td>salt</td>
+</tr>
+<tr>
+<td>8 cups</td>
+<td>cauliflower (chopped)</td>
+</tr>
+<tr>
+<td>several sprigs</td>
+<td>cilantro</td>
+</tr>
+<tr>
+<td>1/8</td>
+<td>chopped red onion</td>
+</tr>
+<tr>
+<td>1 can</td>
+<td>black beans</td>
+</tr>
+<tr>
+<td>1 1/2 cups</td>
+<td>shredded chicken (pre-cooked)</td>
+</tr>
+<tr>
+<td>desired level</td>
+<td>Mexican cheese</td>
+</tr>
+</tbody>
+</table>
+<p> Preheat oven to 400 degrees.</p>
+<p>Combine oil, chili powder, cumin, onion powder, salt in large bowl. Toss in cauliflower to coat. </p>
+<p>Spread cauliflower on pre-sprayed baking sheet and cook for 15-20 minutes (15 in gas oven).</p>
+<p>When cauliflower starting to brown, pull out of oven, add black beans, chicken (if cold), red onion, and cheese. Bake until cheese melted (~5 min.).</p>
+<p>Top with cilantro and / or salsa.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rhubarb Wine</title>
         <author>
@@ -129,7 +206,7 @@
         <link href="https://derekjhanson.github.io/food/blueberry-wine.html"/>
         <id>https://derekjhanson.github.io/food/blueberry-wine.html</id>
 
-        <updated>2020-01-05T13:32:34-06:00</updated>
+        <updated>2020-01-06T12:19:08-06:00</updated>
             <summary>
                 <![CDATA[
                     Homemade blueberry wine (https://practicalselfreliance.com/blueberry-wine/) Allow blueberries to reach near room temperature from&hellip;
@@ -546,100 +623,6 @@
 <p> Add butter to saute pan, cook with onion, garlic.</p>
 <p>Add base ingredients to crock pot, then add chicken breasts on top. Cook on high for 3-4 hours.</p>
 <p>When complete, shred the chicken with a fork. Then add the heavy cream? Cook on high for another hour. Serve with cilantro garnish and tortilla strips.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Butternut Squash Chili</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/butternut-squash-chili.html"/>
-        <id>https://derekjhanson.github.io/food/butternut-squash-chili.html</id>
-
-        <updated>2019-11-08T18:56:37-06:00</updated>
-            <summary>
-                <![CDATA[
-                    For those cold nights. Saute ground turkey and onions 3-5 minutes. If&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>For those cold nights.</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>Lots</td>
-<td>Butternut Squash</td>
-</tr>
-<tr>
-<td>1/4</td>
-<td>White Onion</td>
-</tr>
-<tr>
-<td>dash</td>
-<td>Garlic Powder</td>
-</tr>
-<tr>
-<td>15 oz</td>
-<td>Tomato Sauce</td>
-</tr>
-<tr>
-<td>15 oz</td>
-<td>Kidney Beans</td>
-</tr>
-<tr>
-<td>15 oz </td>
-<td>Great Northern Beans</td>
-</tr>
-<tr>
-<td>3/4 cup</td>
-<td>Water</td>
-</tr>
-<tr>
-<td>1 lb</td>
-<td>Ground Turkey</td>
-</tr>
-<tr>
-<td>1 tsp</td>
-<td>Chili Powder</td>
-</tr>
-<tr>
-<td>1 tsp</td>
-<td>Cumin</td>
-</tr>
-<tr>
-<td>1 tsp</td>
-<td>Paprika</td>
-</tr>
-<tr>
-<td>1 tsp</td>
-<td>Cocoa Powder</td>
-</tr>
-<tr>
-<td>3/4 tsp</td>
-<td>Salt</td>
-</tr>
-<tr>
-<td>1/4 tsp</td>
-<td>Black Pepper</td>
-</tr>
-<tr>
-<td>Splash</td>
-<td>Maple Syrup</td>
-</tr>
-<tr>
-<td>Big Splash</td>
-<td>Peach Pecan Whiskey (Old Camp)</td>
-</tr>
-</tbody>
-</table>
-<p> Saute ground turkey and onions 3-5 minutes. If low fat turkey, may need to add splash of water.</p>
-<p>Then add all other ingredients and cook for 18 minutes on pressure cook.</p>
             ]]>
         </content>
     </entry>

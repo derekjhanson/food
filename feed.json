@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/cauliflower-mexican-nachos.html",
+            "url": "https://derekjhanson.github.io/food/cauliflower-mexican-nachos.html",
+            "title": "Cauliflower Mexican &quot;Nachos&quot;",
+            "summary": "A nacho delight using seasoned cauliflower instead of chips. Preheat oven to&hellip;",
+            "content_html": "<p>A nacho delight using seasoned cauliflower instead of chips.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>3 tbs</td>\n<td>grapeseed oil</td>\n</tr>\n<tr>\n<td>3/4 tsp</td>\n<td>chili powder</td>\n</tr>\n<tr>\n<td>3/4 tsp</td>\n<td>cumin</td>\n</tr>\n<tr>\n<td>3/4 tsp</td>\n<td>onion powder</td>\n</tr>\n<tr>\n<td>1/4 tsp</td>\n<td>salt</td>\n</tr>\n<tr>\n<td>8 cups</td>\n<td>cauliflower (chopped)</td>\n</tr>\n<tr>\n<td>several sprigs</td>\n<td>cilantro</td>\n</tr>\n<tr>\n<td>1/8</td>\n<td>chopped red onion</td>\n</tr>\n<tr>\n<td>1 can</td>\n<td>black beans</td>\n</tr>\n<tr>\n<td>1 1/2 cups</td>\n<td>shredded chicken (pre-cooked)</td>\n</tr>\n<tr>\n<td>desired level</td>\n<td>Mexican cheese</td>\n</tr>\n</tbody>\n</table>\n<p> Preheat oven to 400 degrees.</p>\n<p>Combine oil, chili powder, cumin, onion powder, salt in large bowl. Toss in cauliflower to coat. </p>\n<p>Spread cauliflower on pre-sprayed baking sheet and cook for 15-20 minutes (15 in gas oven).</p>\n<p>When cauliflower starting to brown, pull out of oven, add black beans, chicken (if cold), red onion, and cheese. Bake until cheese melted (~5 min.).</p>\n<p>Top with cilantro and / or salsa.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-08T09:14:15-06:00",
+            "date_modified": "2020-01-08T09:14:15-06:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/rhubarb-wine.html",
             "url": "https://derekjhanson.github.io/food/rhubarb-wine.html",
             "title": "Rhubarb Wine",
@@ -49,7 +63,7 @@
             "tags": [
             ],
             "date_published": "2020-01-05T13:17:52-06:00",
-            "date_modified": "2020-01-05T13:32:34-06:00"
+            "date_modified": "2020-01-06T12:19:08-06:00"
         },
         {
             "id": "https://derekjhanson.github.io/food/drumsticks.html",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2019-11-08T18:55:53-06:00",
             "date_modified": "2019-11-08T18:55:53-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/butternut-squash-chili.html",
-            "url": "https://derekjhanson.github.io/food/butternut-squash-chili.html",
-            "title": "Butternut Squash Chili",
-            "summary": "For those cold nights. Saute ground turkey and onions 3-5 minutes. If&hellip;",
-            "content_html": "<p>For those cold nights.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>Lots</td>\n<td>Butternut Squash</td>\n</tr>\n<tr>\n<td>1/4</td>\n<td>White Onion</td>\n</tr>\n<tr>\n<td>dash</td>\n<td>Garlic Powder</td>\n</tr>\n<tr>\n<td>15 oz</td>\n<td>Tomato Sauce</td>\n</tr>\n<tr>\n<td>15 oz</td>\n<td>Kidney Beans</td>\n</tr>\n<tr>\n<td>15 oz </td>\n<td>Great Northern Beans</td>\n</tr>\n<tr>\n<td>3/4 cup</td>\n<td>Water</td>\n</tr>\n<tr>\n<td>1 lb</td>\n<td>Ground Turkey</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Chili Powder</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Cumin</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Paprika</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>Cocoa Powder</td>\n</tr>\n<tr>\n<td>3/4 tsp</td>\n<td>Salt</td>\n</tr>\n<tr>\n<td>1/4 tsp</td>\n<td>Black Pepper</td>\n</tr>\n<tr>\n<td>Splash</td>\n<td>Maple Syrup</td>\n</tr>\n<tr>\n<td>Big Splash</td>\n<td>Peach Pecan Whiskey (Old Camp)</td>\n</tr>\n</tbody>\n</table>\n<p> Saute ground turkey and onions 3-5 minutes. If low fat turkey, may need to add splash of water.</p>\n<p>Then add all other ingredients and cook for 18 minutes on pressure cook.</p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-11-08T18:43:33-06:00",
-            "date_modified": "2019-11-08T18:56:37-06:00"
         }
     ]
 }
