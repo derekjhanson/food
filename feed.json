@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/pear-wine.html",
+            "url": "https://derekjhanson.github.io/food/pear-wine.html",
+            "title": "Pear Wine",
+            "summary": "Yum yum yum. Quarter the pears, then smash with end of pint&hellip;",
+            "content_html": "<p>Yum yum yum.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>1 gallon (4 quarts)</td>\n<td>pears</td>\n</tr>\n<tr>\n<td>4 1/2 cups</td>\n<td>sugar</td>\n</tr>\n<tr>\n<td>1 qt</td>\n<td>boiling water</td>\n</tr>\n<tr>\n<td>1/4 packet</td>\n<td>champagne yeast</td>\n</tr>\n<tr>\n<td>1 package (1 oz)</td>\n<td>raisins (yeast nutrient)</td>\n</tr>\n<tr>\n<td>1 cup</td>\n<td>black tea (tannin)</td>\n</tr>\n<tr>\n<td>1/4 cup</td>\n<td>lemon juice</td>\n</tr>\n</tbody>\n</table>\n<p> Quarter the pears, then smash with end of pint glass (or potato masher).</p>\n<p>Add the sugar, stir. Let stand for 6-12 hours as sugar extracts juices naturally.</p>\n<p>Then add 1 qt boiling water. Let stand until room temperature.</p>\n<p>Add the awkened yeast (in lukewarm water 5-10 minutes), raisins, tea, and lemon juice.</p>\n<p> </p>\n<p>Made:</p>\n<p>1/11/20 - with ~3 Bartlett Pears, 6 Best Ever Pears</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-11T18:40:00-06:00",
+            "date_modified": "2020-01-11T18:40:00-06:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/green-chile-pork-carnitas.html",
             "url": "https://derekjhanson.github.io/food/green-chile-pork-carnitas.html",
             "title": "Green Chile Pork Carnitas",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-01-03T12:07:36-06:00",
             "date_modified": "2020-01-03T12:07:36-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/three-nothing-bundt-cakes.html",
-            "url": "https://derekjhanson.github.io/food/three-nothing-bundt-cakes.html",
-            "title": "Three Nothing Bundt Cakes",
-            "summary": "For a wedding splash sure to outdo the main cake. ",
-            "content_html": "<p>For a wedding splash sure to outdo the main cake.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Devils food cake mix box</td>\n</tr>\n<tr>\n<td>3</td>\n<td>instant chocolate pudding package</td>\n</tr>\n<tr>\n<td>32 oz</td>\n<td>1 cup sour cream (8 oz)</td>\n</tr>\n<tr>\n<td>12 eggs</td>\n<td>4 eggs</td>\n</tr>\n<tr>\n<td> </td>\n<td>1/2 cup water</td>\n</tr>\n<tr>\n<td> </td>\n<td>1/2 cup oil</td>\n</tr>\n<tr>\n<td>3 bags</td>\n<td>1 1/2 cups mini chocolate chips</td>\n</tr>\n<tr>\n<td>48 oz</td>\n<td>16 oz cream cheese</td>\n</tr>\n<tr>\n<td>3 sticks</td>\n<td>1/2 cup butter</td>\n</tr>\n<tr>\n<td>bag</td>\n<td>3/4 cup powdered sugar</td>\n</tr>\n<tr>\n<td> </td>\n<td>2 tsp vanilla extract</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-03T12:05:22-06:00",
-            "date_modified": "2020-01-03T12:05:22-06:00"
         }
     ]
 }

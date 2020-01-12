@@ -3,12 +3,75 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2020-01-11T17:56:38-06:00</updated>
+    <updated>2020-01-11T18:40:03-06:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Pear Wine</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/pear-wine.html"/>
+        <id>https://derekjhanson.github.io/food/pear-wine.html</id>
+
+        <updated>2020-01-11T18:40:00-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Yum yum yum. Quarter the pears, then smash with end of pint&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Yum yum yum.</p>
+<table>
+<tbody>
+<tr>
+<td>Amount</td>
+<td>Ingredient</td>
+</tr>
+<tr>
+<td>1 gallon (4 quarts)</td>
+<td>pears</td>
+</tr>
+<tr>
+<td>4 1/2 cups</td>
+<td>sugar</td>
+</tr>
+<tr>
+<td>1 qt</td>
+<td>boiling water</td>
+</tr>
+<tr>
+<td>1/4 packet</td>
+<td>champagne yeast</td>
+</tr>
+<tr>
+<td>1 package (1 oz)</td>
+<td>raisins (yeast nutrient)</td>
+</tr>
+<tr>
+<td>1 cup</td>
+<td>black tea (tannin)</td>
+</tr>
+<tr>
+<td>1/4 cup</td>
+<td>lemon juice</td>
+</tr>
+</tbody>
+</table>
+<p> Quarter the pears, then smash with end of pint glass (or potato masher).</p>
+<p>Add the sugar, stir. Let stand for 6-12 hours as sugar extracts juices naturally.</p>
+<p>Then add 1 qt boiling water. Let stand until room temperature.</p>
+<p>Add the awkened yeast (in lukewarm water 5-10 minutes), raisins, tea, and lemon juice.</p>
+<p> </p>
+<p>Made:</p>
+<p>1/11/20 - with ~3 Bartlett Pears, 6 Best Ever Pears</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Green Chile Pork Carnitas</title>
         <author>
@@ -543,79 +606,6 @@
 <tr>
 <td>3 bags</td>
 <td>16 oz mozarella</td>
-</tr>
-</tbody>
-</table>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Three Nothing Bundt Cakes</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/three-nothing-bundt-cakes.html"/>
-        <id>https://derekjhanson.github.io/food/three-nothing-bundt-cakes.html</id>
-
-        <updated>2020-01-03T12:05:22-06:00</updated>
-            <summary>
-                <![CDATA[
-                    For a wedding splash sure to outdo the main cake. 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>For a wedding splash sure to outdo the main cake.</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Devils food cake mix box</td>
-</tr>
-<tr>
-<td>3</td>
-<td>instant chocolate pudding package</td>
-</tr>
-<tr>
-<td>32 oz</td>
-<td>1 cup sour cream (8 oz)</td>
-</tr>
-<tr>
-<td>12 eggs</td>
-<td>4 eggs</td>
-</tr>
-<tr>
-<td> </td>
-<td>1/2 cup water</td>
-</tr>
-<tr>
-<td> </td>
-<td>1/2 cup oil</td>
-</tr>
-<tr>
-<td>3 bags</td>
-<td>1 1/2 cups mini chocolate chips</td>
-</tr>
-<tr>
-<td>48 oz</td>
-<td>16 oz cream cheese</td>
-</tr>
-<tr>
-<td>3 sticks</td>
-<td>1/2 cup butter</td>
-</tr>
-<tr>
-<td>bag</td>
-<td>3/4 cup powdered sugar</td>
-</tr>
-<tr>
-<td> </td>
-<td>2 tsp vanilla extract</td>
 </tr>
 </tbody>
 </table>
