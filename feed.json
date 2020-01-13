@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/oat-milk.html",
+            "url": "https://derekjhanson.github.io/food/oat-milk.html",
+            "title": "Oat Milk",
+            "summary": "For drinking goodness. Blend just water and date (so can get date&hellip;",
+            "content_html": "<p>For drinking goodness.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>3 cups</td>\n<td>water</td>\n</tr>\n<tr>\n<td>1</td>\n<td>Medjool date (pitted)</td>\n</tr>\n<tr>\n<td>1/2 cup</td>\n<td>oats (quick/instant/rolled - NOT steel cut)</td>\n</tr>\n<tr>\n<td>pinch</td>\n<td>salt</td>\n</tr>\n</tbody>\n</table>\n<p> Blend just water and date (so can get date chopped up first). Then add oats and blend for just 20-30 seconds (don't want to get too hot or gets thick/oatmealy).</p>\n<p>Strain into jar.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-12T18:31:38-06:00",
+            "date_modified": "2020-01-12T18:32:41-06:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/coconut-curry-chicken.html",
             "url": "https://derekjhanson.github.io/food/coconut-curry-chicken.html",
             "title": "Coconut Curry Chicken",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-01-05T13:07:40-06:00",
             "date_modified": "2020-01-05T13:07:40-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/carrots-and-squash.html",
-            "url": "https://derekjhanson.github.io/food/carrots-and-squash.html",
-            "title": "Carrots and Squash",
-            "summary": "Instant pot carrots and squash. Simply chop up each, add &gt;1 cup&hellip;",
-            "content_html": "<p>Instant pot carrots and squash.</p>\n<p>Simply chop up each, add &gt;1 cup water, pressure cook on high for 3 minutes. </p>\n<p>Then can drizzle with olive oil and spices (like thyme or harissa), or just eat plain!</p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-05T13:03:04-06:00",
-            "date_modified": "2020-01-05T13:03:04-06:00"
         }
     ]
 }

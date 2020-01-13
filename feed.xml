@@ -3,12 +3,58 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2020-01-12T18:28:02-06:00</updated>
+    <updated>2020-01-12T18:32:45-06:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Oat Milk</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/oat-milk.html"/>
+        <id>https://derekjhanson.github.io/food/oat-milk.html</id>
+
+        <updated>2020-01-12T18:32:41-06:00</updated>
+            <summary>
+                <![CDATA[
+                    For drinking goodness. Blend just water and date (so can get date&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>For drinking goodness.</p>
+<table>
+<tbody>
+<tr>
+<td>Amount</td>
+<td>Ingredient</td>
+</tr>
+<tr>
+<td>3 cups</td>
+<td>water</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Medjool date (pitted)</td>
+</tr>
+<tr>
+<td>1/2 cup</td>
+<td>oats (quick/instant/rolled - NOT steel cut)</td>
+</tr>
+<tr>
+<td>pinch</td>
+<td>salt</td>
+</tr>
+</tbody>
+</table>
+<p> Blend just water and date (so can get date chopped up first). Then add oats and blend for just 20-30 seconds (don't want to get too hot or gets thick/oatmealy).</p>
+<p>Strain into jar.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Coconut Curry Chicken</title>
         <author>
@@ -568,28 +614,6 @@
 <li>drop biscuits onto lightly greased baking sheet</li>
 <li>cook for 10 to 12 minutes or until edges turn golden brown</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Carrots and Squash</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/carrots-and-squash.html"/>
-        <id>https://derekjhanson.github.io/food/carrots-and-squash.html</id>
-
-        <updated>2020-01-05T13:03:04-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Instant pot carrots and squash. Simply chop up each, add &gt;1 cup&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Instant pot carrots and squash.</p>
-<p>Simply chop up each, add &gt;1 cup water, pressure cook on high for 3 minutes. </p>
-<p>Then can drizzle with olive oil and spices (like thyme or harissa), or just eat plain!</p>
             ]]>
         </content>
     </entry>
