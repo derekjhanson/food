@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/coconut-curry-chicken.html",
+            "url": "https://derekjhanson.github.io/food/coconut-curry-chicken.html",
+            "title": "Coconut Curry Chicken",
+            "summary": "Made up, hope its good! Put coconut milk, sugar, and spices in&hellip;",
+            "content_html": "<p>Made up, hope its good!</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>2 cups</td>\n<td>Coconut milk (vanilla, unsweetened)</td>\n</tr>\n<tr>\n<td>~1 tbs</td>\n<td>fresh cut ginger</td>\n</tr>\n<tr>\n<td>2 tbs</td>\n<td>brown sugar</td>\n</tr>\n<tr>\n<td>1 tbs</td>\n<td>curry</td>\n</tr>\n<tr>\n<td>3/4 tbs</td>\n<td>salt</td>\n</tr>\n<tr>\n<td>1/4 tsp</td>\n<td>cayenne</td>\n</tr>\n<tr>\n<td>1/2 tsp</td>\n<td>garlic powder</td>\n</tr>\n</tbody>\n</table>\n<p> Put coconut milk, sugar, and spices in instant pot. Add chicken (not on trivet). Cook for 8/9 minutes.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-12T18:27:56-06:00",
+            "date_modified": "2020-01-12T18:27:56-06:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/pear-wine.html",
             "url": "https://derekjhanson.github.io/food/pear-wine.html",
             "title": "Pear Wine",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-01-05T13:03:04-06:00",
             "date_modified": "2020-01-05T13:03:04-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/lasagna-who-needs-meat-x3.html",
-            "url": "https://derekjhanson.github.io/food/lasagna-who-needs-meat-x3.html",
-            "title": "Lasagna, Who Needs Meat? (x3)",
-            "summary": "Vegetarian lasagna ",
-            "content_html": "<p>Vegetarian lasagna</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>2 jars</td>\n<td>25 oz Tomato Basil Pasta Sauce (whole foods?)</td>\n</tr>\n<tr>\n<td> </td>\n<td>Parmesean</td>\n</tr>\n<tr>\n<td>3 lbs</td>\n<td>1 lb Ricotta Cheese</td>\n</tr>\n<tr>\n<td> </td>\n<td>dash Italian seasoning</td>\n</tr>\n<tr>\n<td> </td>\n<td>16 oz noodles (pre-cooked flat lasagna)</td>\n</tr>\n<tr>\n<td> </td>\n<td>1 1/2 tsp thyme</td>\n</tr>\n<tr>\n<td> </td>\n<td>2 tbs olive oil</td>\n</tr>\n<tr>\n<td>2</td>\n<td>onion</td>\n</tr>\n<tr>\n<td>2</td>\n<td>squash</td>\n</tr>\n<tr>\n<td>4</td>\n<td>zucchini</td>\n</tr>\n<tr>\n<td>3</td>\n<td>carrots</td>\n</tr>\n<tr>\n<td>3 bags</td>\n<td>16 oz mozarella</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-03T12:07:36-06:00",
-            "date_modified": "2020-01-03T12:07:36-06:00"
         }
     ]
 }
