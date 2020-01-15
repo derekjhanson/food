@@ -3,12 +3,43 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2020-01-15T12:59:03-06:00</updated>
+    <updated>2020-01-15T14:26:48-06:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Thai Basil Chicken</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/thai-basil-chicken-2.html"/>
+        <id>https://derekjhanson.github.io/food/thai-basil-chicken-2.html</id>
+
+        <updated>2020-01-15T14:26:43-06:00</updated>
+            <summary>
+                <![CDATA[
+                    A work in progress... Suggested: garlic - 4 cloves thai chiles (pestle and mortar smash chiles and garlic) dark&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A work in progress...</p>
+<p>Suggested:</p>
+<p>garlic - 4 cloves</p>
+<p>thai chiles (pestle and mortar smash chiles and garlic)</p>
+<p>dark sweet soy sauce</p>
+<p>chicken</p>
+<p>1/2 tsp sugar</p>
+<p>thai basil</p>
+<p> </p>
+<p>make a rub (mayo, smashed chiles, smashed garlic, soy sauce) - saute in instant pot</p>
+<p>cook with some coconut milk (instead of water)</p>
+<p>OR go for a rice dish (like lemon basil chicken)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Almond Milk</title>
         <author>
@@ -494,61 +525,6 @@
 <p>Spread cauliflower on pre-sprayed baking sheet and cook for 15-20 minutes (15 in gas oven).</p>
 <p>When cauliflower starting to brown, pull out of oven, add black beans, chicken (if cold), red onion, and cheese. Bake until cheese melted (~5 min.).</p>
 <p>Top with cilantro and / or salsa.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Rhubarb Wine</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/rhubarb-wine.html"/>
-        <id>https://derekjhanson.github.io/food/rhubarb-wine.html</id>
-
-        <updated>2020-01-09T09:17:39-06:00</updated>
-            <summary>
-                <![CDATA[
-                    A winter vegetable in a fun new form. (https://practicalselfreliance.com/rhubarb-wine) Made: 1/5/20 - chopped up 4 large stems from Central&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>A winter vegetable in a fun new form. (<a href="https://practicalselfreliance.com/rhubarb-wine">https://practicalselfreliance.com/rhubarb-wine</a>)</p>
-<table>
-<tbody>
-<tr>
-<td>4 stems</td>
-<td>rhubarb</td>
-</tr>
-<tr>
-<td> </td>
-<td>sugar</td>
-</tr>
-<tr>
-<td> </td>
-<td>black tea</td>
-</tr>
-<tr>
-<td> </td>
-<td>lemon juice</td>
-</tr>
-<tr>
-<td> </td>
-<td>raisins</td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-</tr>
-</tbody>
-</table>
-<p> <img src="https://derekjhanson.github.io/food/media/posts/26/Capture.PNG" alt="" width="693" height="1308"></p>
-<p>Made:</p>
-<p>1/5/20 - chopped up 4 large stems from Central Market. Placed in red bowl with significant sugar (unmeasured) for 3 days, mixing occasionally. Moved to single quart vessel on 3rd day. Filled almost halfway with sugary mixture, water, tannin, etc. the rest of the way.</p>
             ]]>
         </content>
     </entry>

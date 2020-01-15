@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/thai-basil-chicken-2.html",
+            "url": "https://derekjhanson.github.io/food/thai-basil-chicken-2.html",
+            "title": "Thai Basil Chicken",
+            "summary": "A work in progress... Suggested: garlic - 4 cloves thai chiles (pestle and mortar smash chiles and garlic) dark&hellip;",
+            "content_html": "<p>A work in progress...</p>\n<p>Suggested:</p>\n<p>garlic - 4 cloves</p>\n<p>thai chiles (pestle and mortar smash chiles and garlic)</p>\n<p>dark sweet soy sauce</p>\n<p>chicken</p>\n<p>1/2 tsp sugar</p>\n<p>thai basil</p>\n<p> </p>\n<p>make a rub (mayo, smashed chiles, smashed garlic, soy sauce) - saute in instant pot</p>\n<p>cook with some coconut milk (instead of water)</p>\n<p>OR go for a rice dish (like lemon basil chicken)</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-15T14:26:43-06:00",
+            "date_modified": "2020-01-15T14:26:43-06:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/almond-milk.html",
             "url": "https://derekjhanson.github.io/food/almond-milk.html",
             "title": "Almond Milk",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-01-08T09:14:15-06:00",
             "date_modified": "2020-01-08T09:14:15-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/rhubarb-wine.html",
-            "url": "https://derekjhanson.github.io/food/rhubarb-wine.html",
-            "title": "Rhubarb Wine",
-            "summary": "A winter vegetable in a fun new form. (https://practicalselfreliance.com/rhubarb-wine) Made: 1/5/20 - chopped up 4 large stems from Central&hellip;",
-            "content_html": "<p>A winter vegetable in a fun new form. (<a href=\"https://practicalselfreliance.com/rhubarb-wine\">https://practicalselfreliance.com/rhubarb-wine</a>)</p>\n<table>\n<tbody>\n<tr>\n<td>4 stems</td>\n<td>rhubarb</td>\n</tr>\n<tr>\n<td> </td>\n<td>sugar</td>\n</tr>\n<tr>\n<td> </td>\n<td>black tea</td>\n</tr>\n<tr>\n<td> </td>\n<td>lemon juice</td>\n</tr>\n<tr>\n<td> </td>\n<td>raisins</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<p> <img src=\"https://derekjhanson.github.io/food/media/posts/26/Capture.PNG\" alt=\"\" width=\"693\" height=\"1308\"></p>\n<p>Made:</p>\n<p>1/5/20 - chopped up 4 large stems from Central Market. Placed in red bowl with significant sugar (unmeasured) for 3 days, mixing occasionally. Moved to single quart vessel on 3rd day. Filled almost halfway with sugary mixture, water, tannin, etc. the rest of the way.</p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-05T13:30:46-06:00",
-            "date_modified": "2020-01-09T09:17:39-06:00"
         }
     ]
 }
