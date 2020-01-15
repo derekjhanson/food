@@ -3,12 +3,88 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2020-01-15T10:58:26-06:00</updated>
+    <updated>2020-01-15T12:59:03-06:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Almond Milk</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/almond-milk.html"/>
+        <id>https://derekjhanson.github.io/food/almond-milk.html</id>
+
+        <updated>2020-01-15T12:58:58-06:00</updated>
+            <summary>
+                <![CDATA[
+                    From the bag. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>From the bag.</p>
+<table>
+<tbody>
+<tr>
+<td>Amount</td>
+<td>Ingredient</td>
+</tr>
+<tr>
+<td>1 cup</td>
+<td>raw almonds</td>
+</tr>
+<tr>
+<td>3 1/2 cups</td>
+<td>water</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Medjool dates</td>
+</tr>
+<tr>
+<td>1/2 tsp</td>
+<td>vanilla extract</td>
+</tr>
+<tr>
+<td>1/4 tsp</td>
+<td>cinnamon</td>
+</tr>
+<tr>
+<td>pinch</td>
+<td>sea salt</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Thai Basil Chicken</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/thai-basil-chicken.html"/>
+        <id>https://derekjhanson.github.io/food/thai-basil-chicken.html</id>
+
+        <updated>2020-01-15T12:49:42-06:00</updated>
+            <summary>
+                <![CDATA[
+                    "Thai basil chicken, better known in Thai as pad kra pao gai (ผัดกระเพราไก่ pad ka prao gai), is a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>"Thai basil chicken, better known in Thai as pad kra pao gai (ผัดกระเพราไก่ pad ka prao gai), is a contender for the most popular, and the most beloved Thai street food dish of all time."</p>
+</blockquote>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tomato Soup</title>
         <author>
@@ -473,135 +549,6 @@
 <p> <img src="https://derekjhanson.github.io/food/media/posts/26/Capture.PNG" alt="" width="693" height="1308"></p>
 <p>Made:</p>
 <p>1/5/20 - chopped up 4 large stems from Central Market. Placed in red bowl with significant sugar (unmeasured) for 3 days, mixing occasionally. Moved to single quart vessel on 3rd day. Filled almost halfway with sugary mixture, water, tannin, etc. the rest of the way.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Peach Wine</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/peach-wine.html"/>
-        <id>https://derekjhanson.github.io/food/peach-wine.html</id>
-
-        <updated>2020-01-09T09:20:23-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Yummmmmmy peach wine (https://practicalselfreliance.com/peach-wine/) Rinse and cut up peaches (slice into thin apple-chip like slices for best extraction?). Add&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Yummmmmmy peach wine (<a href="https://practicalselfreliance.com/peach-wine/">https://practicalselfreliance.com/peach-wine/</a>)</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>1 gallon (10+?)</td>
-<td>very ripe peaches</td>
-</tr>
-<tr>
-<td>3 lbs</td>
-<td>sugar</td>
-</tr>
-<tr>
-<td>12</td>
-<td>raisins (yeast nutrient)</td>
-</tr>
-<tr>
-<td>1/2 cup</td>
-<td>black tea (tannin)</td>
-</tr>
-<tr>
-<td>1/4 packet</td>
-<td>champagne yeast</td>
-</tr>
-<tr>
-<td> </td>
-<td> </td>
-</tr>
-</tbody>
-</table>
-<p>Rinse and cut up peaches (slice into thin apple-chip like slices for best extraction?).</p>
-<p>Add sugar, stir every few minutes for 2 hours + (until maximum syrup/juice extracted)</p>
-<p>Pour liquid into fermenters around 2/3 full each. Then, add water to peaches (to get some of that extra sugar out) and fill jars to 3/4 full.</p>
-<p>Next, add warmed yeast. Then add lemon juice (equivalent for each jar), raisins (3 per quart jar), and tea (enough to slightly darken each jar).</p>
-<p>Seal up with carboy/airlock for 10-14 days in primary fermentation.</p>
-<p>Siphon and transfer to secondary where fermentation should take 6 weeks minimum (3-6 months suggested)</p>
-<p>Siphon to bottle and age as desired.</p>
-<p> </p>
-<p>Made:</p>
-<p>1/5/20 - chopped 6 peaches of different levels of ripeness (though generally ripe). Used unmeasured amount of sugar and moved to primary fermenter (quart jar) after 8 hours of occasional stirring. Sugary mixture filled 2/3 of jar (perhaps too much, should water down to fermet faster next time?). Followed lemon juice and raisins (might be too few of these), as suggested. Raisins added before yeast (some suggest otherwise).</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Blueberry Wine</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/blueberry-wine.html"/>
-        <id>https://derekjhanson.github.io/food/blueberry-wine.html</id>
-
-        <updated>2020-01-09T09:15:57-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Homemade blueberry wine (https://practicalselfreliance.com/blueberry-wine/) Allow blueberries to reach near room temperature from frozen (frozen berries release more juice after&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Homemade blueberry wine (https://practicalselfreliance.com/blueberry-wine/)</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>3 lbs</td>
-<td>blueberries (one large frozen bag)</td>
-</tr>
-<tr>
-<td>2 1/4 lbs (4 1/2 cups)</td>
-<td>sugar</td>
-</tr>
-<tr>
-<td>1/4 cup</td>
-<td>lemon juice (acid)</td>
-</tr>
-<tr>
-<td>1/8 cup</td>
-<td>raisins (yeast nutrient)</td>
-</tr>
-<tr>
-<td>1 cup</td>
-<td>black tea (tannin)</td>
-</tr>
-<tr>
-<td>1/4 package</td>
-<td>champagne yeast</td>
-</tr>
-<tr>
-<td>2 tbs</td>
-<td>oak chips (optional)</td>
-</tr>
-</tbody>
-</table>
-<p> Allow blueberries to reach near room temperature from frozen (frozen berries release more juice after cell walls burst).</p>
-<p>Add sugar, then muddle the berries into the sugar (mash)</p>
-<p>After 6-12 hours, pour one quart of boiling water over the mixture, stir</p>
-<p>Cool to room temperature</p>
-<p>Primary: Stir entire mixture once a day for 5-7 days</p>
-<p>Secondary: Siphon then ferment 4-6 weeks</p>
-<p>Tertiary: Either add Campden tablet and ferment until clear (another few weeks) or give it 6-8 months to naturally clear</p>
-<p>Bottle: bottle and let age for several more months</p>
-<p> </p>
-<p>Made:</p>
-<p>1/5/20 - followed recipe exactly, significant bubbling after just 24 hours, nice alcohol smell. Moved to quart fermenting vessels on fifth day to reduce air risk and smell in apartment.</p>
             ]]>
         </content>
     </entry>
