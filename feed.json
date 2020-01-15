@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/tomato-soup.html",
+            "url": "https://derekjhanson.github.io/food/tomato-soup.html",
+            "title": "Tomato Soup",
+            "summary": "For the Vitamix Rinse and chop tomatoes in half. Add ingredients in order (from top down). Blend for ~5&hellip;",
+            "content_html": "<p>For the Vitamix</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>1.5 cups</td>\n<td>Water</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Roma tomatoes</td>\n</tr>\n<tr>\n<td>10</td>\n<td>baby carrots</td>\n</tr>\n<tr>\n<td>small amount</td>\n<td>onion</td>\n</tr>\n<tr>\n<td>dash</td>\n<td>thyme</td>\n</tr>\n<tr>\n<td>several sprigs</td>\n<td>fresh basil</td>\n</tr>\n<tr>\n<td>1/2 cup</td>\n<td>milk</td>\n</tr>\n<tr>\n<td>?</td>\n<td>cream</td>\n</tr>\n</tbody>\n</table>\n<p>Rinse and chop tomatoes in half. </p>\n<p>Add ingredients in order (from top down).</p>\n<p>Blend for ~5 minutes to heat up. May need additional heat source.</p>\n<p>Notes:</p>\n<p>1/14/20 - not creamy/thick enough. May need to add cream (or replace milk with it). Check on other recipies for ideas.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-15T10:56:18-06:00",
+            "date_modified": "2020-01-15T10:56:18-06:00"
+        },
+        {
+            "id": "https://derekjhanson.github.io/food/pecan-milk.html",
+            "url": "https://derekjhanson.github.io/food/pecan-milk.html",
+            "title": "Pecan Milk",
+            "summary": "Pecan malk, cold brew coffee, is delicious. Notes:Buy raw, NOT pre-roasted nuts from the store1 cup = 4.4 oz&hellip;",
+            "content_html": "<p>Pecan malk, cold brew coffee, is delicious. </p>\n<p><img class=\"post__image--center\" src=\"https://derekjhanson.github.io/food/media/posts/32/Screen-Shot-2020-01-15-at-10.47.15-AM.png\" width=\"1006\" height=\"1036\"></p>\n<p><img class=\"post__image--center\" src=\"https://derekjhanson.github.io/food/media/posts/32/Screen-Shot-2020-01-15-at-10.49.23-AM.png\" alt=\"\" width=\"545\" height=\"1269\"></p>\n<p>Notes:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Buy raw, NOT pre-roasted nuts from the store</li>\n<li>1 cup = 4.4 oz of pecans (around 1/4 lb.)</li>\n<li>Raw pecans from bins at Central Market (11.99/lb), Whole Foods (12.99/lb)</li>\n<li>So, 1 cup of pecans ~$3 = 36oz = 8.3 cents/oz.</li>\n<li>vs. Malk ~4.04 = 28 oz = 14.4 cents/oz.</li>\n<li>vs. regular milk ~2.50 = 128 oz = 2 cents/oz.</li>\n</ul>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-15T10:53:49-06:00",
+            "date_modified": "2020-01-15T10:53:49-06:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/oat-milk.html",
             "url": "https://derekjhanson.github.io/food/oat-milk.html",
             "title": "Oat Milk",
@@ -120,34 +148,6 @@
             ],
             "date_published": "2020-01-05T13:17:52-06:00",
             "date_modified": "2020-01-09T09:15:57-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/drumsticks.html",
-            "url": "https://derekjhanson.github.io/food/drumsticks.html",
-            "title": "Drumsticks",
-            "summary": "Instant pot drumsticks Combine spices, season legs with the mix (perhaps use mayonnaise to and saute to brown first?)&hellip;",
-            "content_html": "<p>Instant pot drumsticks</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>1 1/2 tbs</td>\n<td>garlic powder</td>\n</tr>\n<tr>\n<td>1 1/2 tbs</td>\n<td>smoked paprika</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>salt</td>\n</tr>\n<tr>\n<td>3 lbs (10 drumsticks)</td>\n<td>chicken</td>\n</tr>\n<tr>\n<td>1 cup</td>\n<td>water</td>\n</tr>\n</tbody>\n</table>\n<p> Combine spices, season legs with the mix (perhaps use mayonnaise to and saute to brown first?)</p>\n<p>Cook for 17 minutes in instant pot on trivet (just pile up the drumsticks)</p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-05T13:11:25-06:00",
-            "date_modified": "2020-01-05T13:11:25-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/brandys-drop-biscuits.html",
-            "url": "https://derekjhanson.github.io/food/brandys-drop-biscuits.html",
-            "title": "Brandy&#x27;s Drop Biscuits",
-            "summary": "Yum yum.AmountIngredient2 cupsBaking flour1 tbsbaking powder1/2 tbssugar1/4 tspsalt1/2 cupmelted butter (1 stick)1 cupmilkheat oven to 450 degreesmix together flur,&hellip;",
-            "content_html": "<p>Yum yum.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>2 cups</td>\n<td>Baking flour</td>\n</tr>\n<tr>\n<td>1 tbs</td>\n<td>baking powder</td>\n</tr>\n<tr>\n<td>1/2 tbs</td>\n<td>sugar</td>\n</tr>\n<tr>\n<td>1/4 tsp</td>\n<td>salt</td>\n</tr>\n<tr>\n<td>1/2 cup</td>\n<td>melted butter (1 stick)</td>\n</tr>\n<tr>\n<td>1 cup</td>\n<td>milk</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>heat oven to 450 degrees</li>\n<li>mix together flur, baking powder, sugar, salt</li>\n<li>add melted butter and milk, stir just until moistened</li>\n<li>drop biscuits onto lightly greased baking sheet</li>\n<li>cook for 10 to 12 minutes or until edges turn golden brown</li>\n</ul>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-05T13:07:40-06:00",
-            "date_modified": "2020-01-05T13:07:40-06:00"
         }
     ]
 }

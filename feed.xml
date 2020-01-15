@@ -3,12 +3,108 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2020-01-12T18:35:01-06:00</updated>
+    <updated>2020-01-15T10:58:26-06:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Tomato Soup</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/tomato-soup.html"/>
+        <id>https://derekjhanson.github.io/food/tomato-soup.html</id>
+
+        <updated>2020-01-15T10:56:18-06:00</updated>
+            <summary>
+                <![CDATA[
+                    For the Vitamix Rinse and chop tomatoes in half. Add ingredients in order (from top down). Blend for ~5&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>For the Vitamix</p>
+<table>
+<tbody>
+<tr>
+<td>Amount</td>
+<td>Ingredient</td>
+</tr>
+<tr>
+<td>1.5 cups</td>
+<td>Water</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Roma tomatoes</td>
+</tr>
+<tr>
+<td>10</td>
+<td>baby carrots</td>
+</tr>
+<tr>
+<td>small amount</td>
+<td>onion</td>
+</tr>
+<tr>
+<td>dash</td>
+<td>thyme</td>
+</tr>
+<tr>
+<td>several sprigs</td>
+<td>fresh basil</td>
+</tr>
+<tr>
+<td>1/2 cup</td>
+<td>milk</td>
+</tr>
+<tr>
+<td>?</td>
+<td>cream</td>
+</tr>
+</tbody>
+</table>
+<p>Rinse and chop tomatoes in half. </p>
+<p>Add ingredients in order (from top down).</p>
+<p>Blend for ~5 minutes to heat up. May need additional heat source.</p>
+<p>Notes:</p>
+<p>1/14/20 - not creamy/thick enough. May need to add cream (or replace milk with it). Check on other recipies for ideas.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Pecan Milk</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/pecan-milk.html"/>
+        <id>https://derekjhanson.github.io/food/pecan-milk.html</id>
+
+        <updated>2020-01-15T10:53:49-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Pecan malk, cold brew coffee, is delicious. Notes:Buy raw, NOT pre-roasted nuts from the store1 cup = 4.4 oz&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Pecan malk, cold brew coffee, is delicious. </p>
+<p><img class="post__image--center" src="https://derekjhanson.github.io/food/media/posts/32/Screen-Shot-2020-01-15-at-10.47.15-AM.png" width="1006" height="1036"></p>
+<p><img class="post__image--center" src="https://derekjhanson.github.io/food/media/posts/32/Screen-Shot-2020-01-15-at-10.49.23-AM.png" alt="" width="545" height="1269"></p>
+<p>Notes:</p>
+<ul style="list-style-type: circle;">
+<li>Buy raw, NOT pre-roasted nuts from the store</li>
+<li>1 cup = 4.4 oz of pecans (around 1/4 lb.)</li>
+<li>Raw pecans from bins at Central Market (11.99/lb), Whole Foods (12.99/lb)</li>
+<li>So, 1 cup of pecans ~$3 = 36oz = 8.3 cents/oz.</li>
+<li>vs. Malk ~4.04 = 28 oz = 14.4 cents/oz.</li>
+<li>vs. regular milk ~2.50 = 128 oz = 2 cents/oz.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Oat Milk</title>
         <author>
@@ -506,115 +602,6 @@
 <p> </p>
 <p>Made:</p>
 <p>1/5/20 - followed recipe exactly, significant bubbling after just 24 hours, nice alcohol smell. Moved to quart fermenting vessels on fifth day to reduce air risk and smell in apartment.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Drumsticks</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/drumsticks.html"/>
-        <id>https://derekjhanson.github.io/food/drumsticks.html</id>
-
-        <updated>2020-01-05T13:11:25-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Instant pot drumsticks Combine spices, season legs with the mix (perhaps use mayonnaise to and saute to brown first?)&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Instant pot drumsticks</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>1 1/2 tbs</td>
-<td>garlic powder</td>
-</tr>
-<tr>
-<td>1 1/2 tbs</td>
-<td>smoked paprika</td>
-</tr>
-<tr>
-<td>1 tsp</td>
-<td>salt</td>
-</tr>
-<tr>
-<td>3 lbs (10 drumsticks)</td>
-<td>chicken</td>
-</tr>
-<tr>
-<td>1 cup</td>
-<td>water</td>
-</tr>
-</tbody>
-</table>
-<p> Combine spices, season legs with the mix (perhaps use mayonnaise to and saute to brown first?)</p>
-<p>Cook for 17 minutes in instant pot on trivet (just pile up the drumsticks)</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Brandy&#x27;s Drop Biscuits</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/brandys-drop-biscuits.html"/>
-        <id>https://derekjhanson.github.io/food/brandys-drop-biscuits.html</id>
-
-        <updated>2020-01-05T13:07:40-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Yum yum.AmountIngredient2 cupsBaking flour1 tbsbaking powder1/2 tbssugar1/4 tspsalt1/2 cupmelted butter (1 stick)1 cupmilkheat oven to 450 degreesmix together flur,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Yum yum.</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>2 cups</td>
-<td>Baking flour</td>
-</tr>
-<tr>
-<td>1 tbs</td>
-<td>baking powder</td>
-</tr>
-<tr>
-<td>1/2 tbs</td>
-<td>sugar</td>
-</tr>
-<tr>
-<td>1/4 tsp</td>
-<td>salt</td>
-</tr>
-<tr>
-<td>1/2 cup</td>
-<td>melted butter (1 stick)</td>
-</tr>
-<tr>
-<td>1 cup</td>
-<td>milk</td>
-</tr>
-</tbody>
-</table>
-<ul>
-<li>heat oven to 450 degrees</li>
-<li>mix together flur, baking powder, sugar, salt</li>
-<li>add melted butter and milk, stir just until moistened</li>
-<li>drop biscuits onto lightly greased baking sheet</li>
-<li>cook for 10 to 12 minutes or until edges turn golden brown</li>
-</ul>
             ]]>
         </content>
     </entry>
