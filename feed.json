@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/turkey-chili.html",
+            "url": "https://derekjhanson.github.io/food/turkey-chili.html",
+            "title": "Turkey Chili",
+            "summary": "Instant pot altered Panera chili recipe Saute onions and olive oil for ~3 minutes. Add turkey and spices, brown&hellip;",
+            "content_html": "<p>Instant pot altered Panera chili recipe</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>2 tbs</td>\n<td>olive oil</td>\n</tr>\n<tr>\n<td>some</td>\n<td>onion</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>salt</td>\n</tr>\n<tr>\n<td>lots</td>\n<td>Rudy's Turkey Rub</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>green chili powder</td>\n</tr>\n<tr>\n<td>1 can</td>\n<td>kidney beans</td>\n</tr>\n<tr>\n<td>1 can</td>\n<td>garbanzo beans</td>\n</tr>\n<tr>\n<td>1 can</td>\n<td>whole kernel corn</td>\n</tr>\n<tr>\n<td>1 can</td>\n<td>tomatos diced</td>\n</tr>\n<tr>\n<td>1 can </td>\n<td>tomato sauce</td>\n</tr>\n<tr>\n<td>10</td>\n<td>baby carrots</td>\n</tr>\n</tbody>\n</table>\n<p> Saute onions and olive oil for ~3 minutes. Add turkey and spices, brown the turkey.</p>\n<p>Add remaining ingredients and cook on high pressure for 12 mintues.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-01-26T18:07:55-06:00",
+            "date_modified": "2020-01-26T18:07:55-06:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/thai-basil-chicken-2.html",
             "url": "https://derekjhanson.github.io/food/thai-basil-chicken-2.html",
             "title": "Thai Basil Chicken",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-01-11T17:56:31-06:00",
             "date_modified": "2020-01-12T18:34:57-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/cauliflower-mexican-nachos.html",
-            "url": "https://derekjhanson.github.io/food/cauliflower-mexican-nachos.html",
-            "title": "Cauliflower Mexican &quot;Nachos&quot;",
-            "summary": "A nacho delight using seasoned cauliflower instead of chips. Preheat oven to 400 degrees. Combine oil, chili powder, cumin,&hellip;",
-            "content_html": "<p>A nacho delight using seasoned cauliflower instead of chips.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>3 tbs</td>\n<td>grapeseed oil</td>\n</tr>\n<tr>\n<td>3/4 tsp</td>\n<td>chili powder</td>\n</tr>\n<tr>\n<td>3/4 tsp</td>\n<td>cumin</td>\n</tr>\n<tr>\n<td>3/4 tsp</td>\n<td>onion powder</td>\n</tr>\n<tr>\n<td>1/4 tsp</td>\n<td>salt</td>\n</tr>\n<tr>\n<td>8 cups</td>\n<td>cauliflower (chopped)</td>\n</tr>\n<tr>\n<td>several sprigs</td>\n<td>cilantro</td>\n</tr>\n<tr>\n<td>1/8</td>\n<td>chopped red onion</td>\n</tr>\n<tr>\n<td>1 can</td>\n<td>black beans</td>\n</tr>\n<tr>\n<td>1 1/2 cups</td>\n<td>shredded chicken (pre-cooked)</td>\n</tr>\n<tr>\n<td>desired level</td>\n<td>Mexican cheese</td>\n</tr>\n</tbody>\n</table>\n<p> Preheat oven to 400 degrees.</p>\n<p>Combine oil, chili powder, cumin, onion powder, salt in large bowl. Toss in cauliflower to coat. </p>\n<p>Spread cauliflower on pre-sprayed baking sheet and cook for 15-20 minutes (15 in gas oven).</p>\n<p>When cauliflower starting to brown, pull out of oven, add black beans, chicken (if cold), red onion, and cheese. Bake until cheese melted (~5 min.).</p>\n<p>Top with cilantro and / or salsa.</p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-08T09:14:15-06:00",
-            "date_modified": "2020-01-08T09:14:15-06:00"
         }
     ]
 }

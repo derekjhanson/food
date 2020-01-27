@@ -3,12 +3,86 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2020-01-15T14:26:48-06:00</updated>
+    <updated>2020-01-26T18:08:04-06:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Turkey Chili</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/turkey-chili.html"/>
+        <id>https://derekjhanson.github.io/food/turkey-chili.html</id>
+
+        <updated>2020-01-26T18:07:55-06:00</updated>
+            <summary>
+                <![CDATA[
+                    Instant pot altered Panera chili recipe Saute onions and olive oil for ~3 minutes. Add turkey and spices, brown&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Instant pot altered Panera chili recipe</p>
+<table>
+<tbody>
+<tr>
+<td>Amount</td>
+<td>Ingredient</td>
+</tr>
+<tr>
+<td>2 tbs</td>
+<td>olive oil</td>
+</tr>
+<tr>
+<td>some</td>
+<td>onion</td>
+</tr>
+<tr>
+<td>1 tsp</td>
+<td>salt</td>
+</tr>
+<tr>
+<td>lots</td>
+<td>Rudy's Turkey Rub</td>
+</tr>
+<tr>
+<td>1 tsp</td>
+<td>green chili powder</td>
+</tr>
+<tr>
+<td>1 can</td>
+<td>kidney beans</td>
+</tr>
+<tr>
+<td>1 can</td>
+<td>garbanzo beans</td>
+</tr>
+<tr>
+<td>1 can</td>
+<td>whole kernel corn</td>
+</tr>
+<tr>
+<td>1 can</td>
+<td>tomatos diced</td>
+</tr>
+<tr>
+<td>1 can </td>
+<td>tomato sauce</td>
+</tr>
+<tr>
+<td>10</td>
+<td>baby carrots</td>
+</tr>
+</tbody>
+</table>
+<p> Saute onions and olive oil for ~3 minutes. Add turkey and spices, brown the turkey.</p>
+<p>Add remaining ingredients and cook on high pressure for 12 mintues.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Thai Basil Chicken</title>
         <author>
@@ -448,83 +522,6 @@
 <p>Add oranges, lime juice, and water to instant pot. Then put pork back in.</p>
 <p>Cook for 60 minutes.</p>
 <p>Notes: if on trivet makes good meat, but doesn't get the flavors. Maybe put directly in sauce or powder the green chiles on meat after shredding the pork.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Cauliflower Mexican &quot;Nachos&quot;</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/cauliflower-mexican-nachos.html"/>
-        <id>https://derekjhanson.github.io/food/cauliflower-mexican-nachos.html</id>
-
-        <updated>2020-01-08T09:14:15-06:00</updated>
-            <summary>
-                <![CDATA[
-                    A nacho delight using seasoned cauliflower instead of chips. Preheat oven to 400 degrees. Combine oil, chili powder, cumin,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>A nacho delight using seasoned cauliflower instead of chips.</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>3 tbs</td>
-<td>grapeseed oil</td>
-</tr>
-<tr>
-<td>3/4 tsp</td>
-<td>chili powder</td>
-</tr>
-<tr>
-<td>3/4 tsp</td>
-<td>cumin</td>
-</tr>
-<tr>
-<td>3/4 tsp</td>
-<td>onion powder</td>
-</tr>
-<tr>
-<td>1/4 tsp</td>
-<td>salt</td>
-</tr>
-<tr>
-<td>8 cups</td>
-<td>cauliflower (chopped)</td>
-</tr>
-<tr>
-<td>several sprigs</td>
-<td>cilantro</td>
-</tr>
-<tr>
-<td>1/8</td>
-<td>chopped red onion</td>
-</tr>
-<tr>
-<td>1 can</td>
-<td>black beans</td>
-</tr>
-<tr>
-<td>1 1/2 cups</td>
-<td>shredded chicken (pre-cooked)</td>
-</tr>
-<tr>
-<td>desired level</td>
-<td>Mexican cheese</td>
-</tr>
-</tbody>
-</table>
-<p> Preheat oven to 400 degrees.</p>
-<p>Combine oil, chili powder, cumin, onion powder, salt in large bowl. Toss in cauliflower to coat. </p>
-<p>Spread cauliflower on pre-sprayed baking sheet and cook for 15-20 minutes (15 in gas oven).</p>
-<p>When cauliflower starting to brown, pull out of oven, add black beans, chicken (if cold), red onion, and cheese. Bake until cheese melted (~5 min.).</p>
-<p>Top with cilantro and / or salsa.</p>
             ]]>
         </content>
     </entry>
