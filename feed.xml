@@ -3,12 +3,113 @@
     <title>Chow Down</title>
     <link href="https://derekjhanson.github.io/food/feed.xml" rel="self" />
     <link href="https://derekjhanson.github.io/food" />
-    <updated>2020-03-02T20:50:34-06:00</updated>
+    <updated>2020-03-14T19:08:56-05:00</updated>
     <author>
         <name>The Hansons</name>
     </author>
     <id>https://derekjhanson.github.io/food</id>
 
+    <entry>
+        <title>Dutch Oven Sweet Chicken Curry</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/dutch-oven-sweet-chicken-curry.html"/>
+        <id>https://derekjhanson.github.io/food/dutch-oven-sweet-chicken-curry.html</id>
+
+        <updated>2020-03-14T19:08:51-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Some sort of sweet curry with traditional indian ingredients (though recipe is made up by me!).AmountIngredient1 tbsgaram masala1 tspcumin1/2&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Some sort of sweet curry with traditional indian ingredients (though recipe is made up by me!).</p>
+<table>
+<tbody>
+<tr>
+<td>Amount</td>
+<td>Ingredient</td>
+</tr>
+<tr>
+<td>1 tbs</td>
+<td>garam masala</td>
+</tr>
+<tr>
+<td>1 tsp</td>
+<td>cumin</td>
+</tr>
+<tr>
+<td>1/2 tsp</td>
+<td>turmeric</td>
+</tr>
+<tr>
+<td>1/4 tsp</td>
+<td>chili powder</td>
+</tr>
+<tr>
+<td>1/2 tsp</td>
+<td>amchur</td>
+</tr>
+<tr>
+<td>dash (or more of a douse?)</td>
+<td>indian brown sugar</td>
+</tr>
+<tr>
+<td>1 or 2</td>
+<td>chicken breasts</td>
+</tr>
+<tr>
+<td>dash</td>
+<td>sunflower oil</td>
+</tr>
+<tr>
+<td>fair amount</td>
+<td>coconut milk</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li> brown chicken in oil, then remove chicken to side.</li>
+<li>cook ghee, onion in remaining oil for a few minutes ~3 or 4</li>
+<li>add spices, garlic, ginger, and cook some more ~2 minutes</li>
+<li>add coconut milk (fair amount), then the chicken back in. Boil, then simmer for 25 minutes.</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Dutch Oven Rotisserie Chicken</title>
+        <author>
+            <name>The Hansons</name>
+        </author>
+        <link href="https://derekjhanson.github.io/food/dutch-oven-rotisserie-chicken.html"/>
+        <id>https://derekjhanson.github.io/food/dutch-oven-rotisserie-chicken.html</id>
+
+        <updated>2020-03-14T19:03:40-05:00</updated>
+            <summary>
+                <![CDATA[
+                    A fall-off-the-bone delicious rotisserie chicken made with relatively little effort.Add olive oil to bottom of dutch oven (less than&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A fall-off-the-bone delicious rotisserie chicken made with relatively little effort.</p>
+<ul>
+<li>Add olive oil to bottom of dutch oven (less than full coating of bottom).</li>
+<li>Rinse chicken, remove pieces from cavity, pat dry with paper towel.</li>
+<li>Chop carrots (~4), onion (1/2).</li>
+<li>Place chicken in dutch oven breast side down. Sprinkle heavily with Old Bay. Flip chicken breast side up, sprinkle again heavily with Old Bay.</li>
+<li>Add carrots and onion to sides and inside chicken.</li>
+<li>Add three to four slices of butter on top of/around chicken.</li>
+<li>Cook at 375 for just under an hour and a half. Then take off lid and cook for another 5-10 minutes to brown the outside of the chicken.</li>
+<li>Remove from heat and let rest for at least 10 minutes before cutting (to preserve the juices and prevent meat from drying out).</li>
+<li>Shred the chicken and save the broth for chicken soup later! (Will need to add water to broth).</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Carnitas - Dutch Oven</title>
         <author>
@@ -388,109 +489,6 @@
 <li>vs. Malk ~4.04 = 28 oz = 14.4 cents/oz.</li>
 <li>vs. regular milk ~2.50 = 128 oz = 2 cents/oz.</li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Oat Milk</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/oat-milk.html"/>
-        <id>https://derekjhanson.github.io/food/oat-milk.html</id>
-
-        <updated>2020-01-12T18:32:41-06:00</updated>
-            <summary>
-                <![CDATA[
-                    For drinking goodness. Blend just water and date (so can get date chopped up first). Then add oats and&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>For drinking goodness.</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>3 cups</td>
-<td>water</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Medjool date (pitted)</td>
-</tr>
-<tr>
-<td>1/2 cup</td>
-<td>oats (quick/instant/rolled - NOT steel cut)</td>
-</tr>
-<tr>
-<td>pinch</td>
-<td>salt</td>
-</tr>
-</tbody>
-</table>
-<p> Blend just water and date (so can get date chopped up first). Then add oats and blend for just 20-30 seconds (don't want to get too hot or gets thick/oatmealy).</p>
-<p>Strain into jar.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Coconut Curry Chicken</title>
-        <author>
-            <name>The Hansons</name>
-        </author>
-        <link href="https://derekjhanson.github.io/food/coconut-curry-chicken.html"/>
-        <id>https://derekjhanson.github.io/food/coconut-curry-chicken.html</id>
-
-        <updated>2020-01-12T18:27:56-06:00</updated>
-            <summary>
-                <![CDATA[
-                    Made up, hope its good! Put coconut milk, sugar, and spices in instant pot. Add chicken (not on trivet).
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Made up, hope its good!</p>
-<table>
-<tbody>
-<tr>
-<td>Amount</td>
-<td>Ingredient</td>
-</tr>
-<tr>
-<td>2 cups</td>
-<td>Coconut milk (vanilla, unsweetened)</td>
-</tr>
-<tr>
-<td>~1 tbs</td>
-<td>fresh cut ginger</td>
-</tr>
-<tr>
-<td>2 tbs</td>
-<td>brown sugar</td>
-</tr>
-<tr>
-<td>1 tbs</td>
-<td>curry</td>
-</tr>
-<tr>
-<td>3/4 tbs</td>
-<td>salt</td>
-</tr>
-<tr>
-<td>1/4 tsp</td>
-<td>cayenne</td>
-</tr>
-<tr>
-<td>1/2 tsp</td>
-<td>garlic powder</td>
-</tr>
-</tbody>
-</table>
-<p> Put coconut milk, sugar, and spices in instant pot. Add chicken (not on trivet). Cook for 8/9 minutes.</p>
             ]]>
         </content>
     </entry>
