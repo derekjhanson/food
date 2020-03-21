@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/chuys-jalapeno-ranch.html",
+            "url": "https://derekjhanson.github.io/food/chuys-jalapeno-ranch.html",
+            "title": "Chuy&#x27;s Jalapeno Ranch",
+            "summary": "An approximation hoping to match the taste, without the morbidity-inducing ingredients. Mix for 30 seconds in food processor to&hellip;",
+            "content_html": "<p>An approximation hoping to match the taste, without the morbidity-inducing ingredients.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>3 tbs</td>\n<td>Ranch mix</td>\n</tr>\n<tr>\n<td>1 big spoon (tbs?)</td>\n<td>Mayonnaise</td>\n</tr>\n<tr>\n<td>2 cups (16 oz)</td>\n<td>sour cream</td>\n</tr>\n<tr>\n<td>4 tbs (or a bunch of)</td>\n<td>cilantro</td>\n</tr>\n<tr>\n<td>1/2</td>\n<td>jalapeno</td>\n</tr>\n<tr>\n<td>2 tsp (or 1/2 lime?)</td>\n<td>lime juice</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>salt (might be overkill with ranch mix)</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>garlic powder (also likely in ranch mix)</td>\n</tr>\n</tbody>\n</table>\n<p> Mix for 30 seconds in food processor to chop cilantro and jalapeno, mix ingredients.</p>\n<p>Comes out too green and flavorful. Chuy's has more creaminess to it. Some recipes add much more mayonnaise and buttermilk, perhaps to achieve this. We tried to compensate with a pinch of milk, which came close but was not perfect.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-20T21:05:17-05:00",
+            "date_modified": "2020-03-20T21:05:17-05:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/dutch-oven-sweet-chicken-curry.html",
             "url": "https://derekjhanson.github.io/food/dutch-oven-sweet-chicken-curry.html",
             "title": "Dutch Oven Sweet Chicken Curry",
@@ -134,20 +148,6 @@
             ],
             "date_published": "2020-01-15T10:56:18-06:00",
             "date_modified": "2020-01-15T10:56:18-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/pecan-milk.html",
-            "url": "https://derekjhanson.github.io/food/pecan-milk.html",
-            "title": "Pecan Milk",
-            "summary": "Pecan malk, cold brew coffee, is delicious. Notes:Buy raw, NOT pre-roasted nuts from the store1 cup = 4.4 oz&hellip;",
-            "content_html": "<p>Pecan malk, cold brew coffee, is delicious. </p>\n<p><img class=\"post__image--center\" src=\"https://derekjhanson.github.io/food/media/posts/32/Screen-Shot-2020-01-15-at-10.47.15-AM.png\" width=\"1006\" height=\"1036\"></p>\n<p><img class=\"post__image--center\" src=\"https://derekjhanson.github.io/food/media/posts/32/Screen-Shot-2020-01-15-at-10.49.23-AM.png\" alt=\"\" width=\"545\" height=\"1269\"></p>\n<p>Notes:</p>\n<ul style=\"list-style-type: circle;\">\n<li>Buy raw, NOT pre-roasted nuts from the store</li>\n<li>1 cup = 4.4 oz of pecans (around 1/4 lb.)</li>\n<li>Raw pecans from bins at Central Market (11.99/lb), Whole Foods (12.99/lb)</li>\n<li>So, 1 cup of pecans ~$3 = 36oz = 8.3 cents/oz.</li>\n<li>vs. Malk ~4.04 = 28 oz = 14.4 cents/oz.</li>\n<li>vs. regular milk ~2.50 = 128 oz = 2 cents/oz.</li>\n</ul>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-15T10:53:49-06:00",
-            "date_modified": "2020-01-15T10:53:49-06:00"
         }
     ]
 }
