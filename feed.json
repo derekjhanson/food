@@ -10,6 +10,62 @@
     },
     "items": [
         {
+            "id": "https://derekjhanson.github.io/food/homemade-salted-caramel.html",
+            "url": "https://derekjhanson.github.io/food/homemade-salted-caramel.html",
+            "title": "Homemade Salted Caramel",
+            "summary": "From Sallys Baking Addiction. Heat sugar in saucepan over medium heat, stirring constantly with silicone spatula. Sugar will clump&hellip;",
+            "content_html": "<p>From Sallys Baking Addiction.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredients</td>\n</tr>\n<tr>\n<td>1 c</td>\n<td>granulated sugar</td>\n</tr>\n<tr>\n<td>6 tbs</td>\n<td>salted butter</td>\n</tr>\n<tr>\n<td>1/2 c</td>\n<td>heavy cream</td>\n</tr>\n<tr>\n<td>1 tsp</td>\n<td>salt</td>\n</tr>\n</tbody>\n</table>\n<p> Heat sugar in saucepan over medium heat, stirring constantly with silicone spatula. Sugar will clump and slowly melt into a thick, amber colored liquid as you stir. Move heat down as necessary to avoid burning caramelized sugar.</p>\n<p>Once completely melted, lower heat (maybe even remove from heat temporarily), add butter in stages. Careful, as caramel will bubble and splatter. Stir in butter until completely melted (around 2 minutes) being very careful not to burn it.</p>\n<p>Slowly drizzle in heavy cream while stirring, allow to boil for 1 minute (will rise in pan as boils, so ensure have extra space in pan).</p>\n<p>Officially remove from heat and stir in salt. Allow to slightly cool (thicken) before using.</p>\n<p>Can reheat in microwave or stove to get smoother consistency for pouring, if necessary.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-05T13:16:58-05:00",
+            "date_modified": "2020-04-05T13:16:58-05:00"
+        },
+        {
+            "id": "https://derekjhanson.github.io/food/homemade-pie-crust.html",
+            "url": "https://derekjhanson.github.io/food/homemade-pie-crust.html",
+            "title": "Homemade Pie Crust",
+            "summary": "Makes a 'classic double pie-crust' (the top and bottom). Mix of King Arthur Classic Double Pie Crust and Sally's&hellip;",
+            "content_html": "<p>Makes a 'classic double pie-crust' (the top and bottom). Mix of King Arthur Classic Double Pie Crust and Sally's Baking Addiction Homemade Buttery Flaky Pie Crust.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>2 1/2 c</td>\n<td>All-purpose flour</td>\n</tr>\n<tr>\n<td>2 sticks</td>\n<td>unsalted butter (cold) (no shortening recipe)</td>\n</tr>\n<tr>\n<td>1 1/4 tsp</td>\n<td>salt</td>\n</tr>\n<tr>\n<td>1/2 cup</td>\n<td>very cold water</td>\n</tr>\n</tbody>\n</table>\n<p> Mix flour and salt in stand mixer (speed 2). Add in butter in ~1tbs sections at a time. Then add in water, a little bit at a time (stop when dough begins to form large clumps). Stop when still have small pea-sized chunks of butter visble in dough, but mostly a cohesive unit.</p>\n<p>Move dough to floured work surface. Should come together easily and not feel overly sticky. Form into quick ball, split in half with knife/slicer. Roll out bottom with rolling pin, place in pie mold, move to fridge. Roll out top pieces, cut into slices, place on cookie sheet, move to fridge. Let sit in fridge for ~2 hours.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-05T13:07:09-05:00",
+            "date_modified": "2020-04-05T13:07:09-05:00"
+        },
+        {
+            "id": "https://derekjhanson.github.io/food/lemon-sugar-snap-peas.html",
+            "url": "https://derekjhanson.github.io/food/lemon-sugar-snap-peas.html",
+            "title": "Lemon Sugar Snap Peas",
+            "summary": "Heat 1 tbs olive oil in skillet. Add snap peas, toss to coat. Cook for 2 minutes, stirring frequently.",
+            "content_html": "<p>Heat 1 tbs olive oil in skillet. Add snap peas, toss to coat. Cook for 2 minutes, stirring frequently.</p>\n<p>Add zest from one lemon, dash of salt, pepper (thyme, if desired). Cook for additional 3-5 minutes (until snap peas begin to puff up and are crisp, yet tender). Key is to have them puff up, though taste fine if not all are puffy.</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-05T12:53:39-05:00",
+            "date_modified": "2020-04-05T12:53:39-05:00"
+        },
+        {
+            "id": "https://derekjhanson.github.io/food/lemon-salmon.html",
+            "url": "https://derekjhanson.github.io/food/lemon-salmon.html",
+            "title": "Lemon Salmon",
+            "summary": "Heat olive oil (1tbs) in skillet. Add salmon (2 -4 fillets), season with salt and pepper. Cook each side&hellip;",
+            "content_html": "<p>Heat olive oil (1tbs) in skillet. Add salmon (2 -4 fillets), season with salt and pepper. Cook each side until deeply golden brown (about 6 min. each). MUST cook scale side and reverse (cannot cook sides or will fall apart). Move to plate when finished.</p>\n<p>Reduce heat, add 1tbs butter, 2 cloves garlic, juice of one lemon + zest. Cook for 2 minutes.</p>\n<p>Add thinly sliced second lemon to skillet, season with more salt and pepper. Simmer on low until reduced (3-5 minutes).</p>\n<p>Return salmon to skillet (with sauce ingredients) and simmer until salmon is cooked through (3-4 minutes). Add 2 tbs butter (additional) to create creamy sauce (at end?).</p>",
+            "author": {
+                "name": "The Hansons"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-05T12:51:54-05:00",
+            "date_modified": "2020-04-05T12:51:54-05:00"
+        },
+        {
             "id": "https://derekjhanson.github.io/food/chuys-jalapeno-ranch.html",
             "url": "https://derekjhanson.github.io/food/chuys-jalapeno-ranch.html",
             "title": "Chuy&#x27;s Jalapeno Ranch",
@@ -92,62 +148,6 @@
             ],
             "date_published": "2020-01-26T18:07:55-06:00",
             "date_modified": "2020-01-26T18:07:55-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/thai-basil-chicken-2.html",
-            "url": "https://derekjhanson.github.io/food/thai-basil-chicken-2.html",
-            "title": "Thai Basil Chicken",
-            "summary": "A work in progress... Suggested: garlic - 4 cloves thai chiles (pestle and mortar smash chiles and garlic) dark&hellip;",
-            "content_html": "<p>A work in progress...</p>\n<p>Suggested:</p>\n<p>garlic - 4 cloves</p>\n<p>thai chiles (pestle and mortar smash chiles and garlic)</p>\n<p>dark sweet soy sauce</p>\n<p>chicken</p>\n<p>1/2 tsp sugar</p>\n<p>thai basil</p>\n<p> </p>\n<p>make a rub (mayo, smashed chiles, smashed garlic, soy sauce) - saute in instant pot</p>\n<p>cook with some coconut milk (instead of water)</p>\n<p>OR go for a rice dish (like lemon basil chicken)</p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-15T14:26:43-06:00",
-            "date_modified": "2020-01-15T14:26:43-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/almond-milk.html",
-            "url": "https://derekjhanson.github.io/food/almond-milk.html",
-            "title": "Almond Milk",
-            "summary": "From the bag. ",
-            "content_html": "<p>From the bag.</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>1 cup</td>\n<td>raw almonds</td>\n</tr>\n<tr>\n<td>3 1/2 cups</td>\n<td>water</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Medjool dates</td>\n</tr>\n<tr>\n<td>1/2 tsp</td>\n<td>vanilla extract</td>\n</tr>\n<tr>\n<td>1/4 tsp</td>\n<td>cinnamon</td>\n</tr>\n<tr>\n<td>pinch</td>\n<td>sea salt</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-15T12:58:58-06:00",
-            "date_modified": "2020-01-15T12:58:58-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/thai-basil-chicken.html",
-            "url": "https://derekjhanson.github.io/food/thai-basil-chicken.html",
-            "title": "Thai Basil Chicken",
-            "summary": "\"Thai basil chicken, better known in Thai as pad kra pao gai (ผัดกระเพราไก่ pad ka prao gai), is a&hellip;",
-            "content_html": "<blockquote>\n<p>\"Thai basil chicken, better known in Thai as pad kra pao gai (ผัดกระเพราไก่ pad ka prao gai), is a contender for the most popular, and the most beloved Thai street food dish of all time.\"</p>\n</blockquote>\n<p> </p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-15T12:49:42-06:00",
-            "date_modified": "2020-01-15T12:49:42-06:00"
-        },
-        {
-            "id": "https://derekjhanson.github.io/food/tomato-soup.html",
-            "url": "https://derekjhanson.github.io/food/tomato-soup.html",
-            "title": "Tomato Soup",
-            "summary": "For the Vitamix Rinse and chop tomatoes in half. Add ingredients in order (from top down). Blend for ~5&hellip;",
-            "content_html": "<p>For the Vitamix</p>\n<table>\n<tbody>\n<tr>\n<td>Amount</td>\n<td>Ingredient</td>\n</tr>\n<tr>\n<td>1.5 cups</td>\n<td>Water</td>\n</tr>\n<tr>\n<td>10</td>\n<td>Roma tomatoes</td>\n</tr>\n<tr>\n<td>10</td>\n<td>baby carrots</td>\n</tr>\n<tr>\n<td>small amount</td>\n<td>onion</td>\n</tr>\n<tr>\n<td>dash</td>\n<td>thyme</td>\n</tr>\n<tr>\n<td>several sprigs</td>\n<td>fresh basil</td>\n</tr>\n<tr>\n<td>1/2 cup</td>\n<td>milk</td>\n</tr>\n<tr>\n<td>?</td>\n<td>cream</td>\n</tr>\n</tbody>\n</table>\n<p>Rinse and chop tomatoes in half. </p>\n<p>Add ingredients in order (from top down).</p>\n<p>Blend for ~5 minutes to heat up. May need additional heat source.</p>\n<p>Notes:</p>\n<p>1/14/20 - not creamy/thick enough. May need to add cream (or replace milk with it). Check on other recipies for ideas.</p>",
-            "author": {
-                "name": "The Hansons"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-01-15T10:56:18-06:00",
-            "date_modified": "2020-01-15T10:56:18-06:00"
         }
     ]
 }
